@@ -1,4 +1,4 @@
-# Boards
+# Creating Boards
 
 In RealBoard, **Boards** are the primary organizational structure used to manage and display assignments, projects, and student work. Each board is designed to hold various **Sections** that correspond to different aspects of the assignment or project.
 
@@ -24,10 +24,6 @@ Boards serve several key purposes:
 3. **Enter Board Details:** Provide a **Title**, and optionally, a **Description** for the board.
 4. **Save:** Click **Save** to finalize the creation of the board.
 
-## Managing Boards
 
-- **Edit:** Modify board details, such as the title or description.
-- **Delete:** Remove a board if it is no longer needed.
-- **Add Sections:** Organize the board by adding relevant sections to categorize the content.
 
 Boards are essential for managing assignments efficiently and providing a structured way for students and teachers to interact and collaborate.
