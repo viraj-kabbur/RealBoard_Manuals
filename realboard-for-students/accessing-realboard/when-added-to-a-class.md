@@ -2,10 +2,17 @@
 
 If your teacher adds you to a class with an assignment:
 
-1. **Notification:** You will receive a notification that you have been added to a new class.
-2. **Class Details:** The notification will include information about the class and assignment.
-3. **Access Class:** Click on the notification or go to the **Classes** section to find your new class.
-4. **Start Living the Life:** Follow the class instructions and start engaging with the assignments.
+1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 145536.png" alt=""><figcaption></figcaption></figure>
+
+2. <mark style="background-color:blue;">**Class Details:**</mark> The notification will include information about the class and assignment.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 182628.png" alt=""><figcaption></figcaption></figure>
+
+3. <mark style="background-color:blue;">**Start Living the Life:**</mark> Click on the "Take on an assignment" button
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 182615.png" alt=""><figcaption></figcaption></figure>
 
 When you are playing RealLives:
 
