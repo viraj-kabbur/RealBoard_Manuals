@@ -15,6 +15,7 @@ Cards serve several important functions:
 1. **Title and Description:** Each card has a **Title** and **Description**. The title briefly identifies the content of the card, while the description provides more detailed information.
 2. **Attachments:** Cards can include various attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
 3. **Comments and Feedback:** Cards may have a section for comments where teachers and peers can provide feedback or ask questions.
+4. **Stars**: Teachers can rate a card out of 5 stars based on the creativity of the card.
 
 ## How to Create a Card
 
@@ -40,5 +41,7 @@ Cards serve several important functions:
 
 * **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
 * **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
+
+
 
 Cards provide a flexible and organized way for students to present their work and for teachers to review and provide feedback. They are an essential component of the RealBoard platform, helping to manage and display student contributions effectively.

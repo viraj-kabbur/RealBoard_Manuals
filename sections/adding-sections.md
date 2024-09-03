@@ -26,21 +26,17 @@ Sections are designed to:
 
 2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820 (1).png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 155325.png" alt=""><figcaption></figcaption></figure>
 
 * **Name:** Provide a descriptive title for the section.
 * **Description:** Provide a short description about your section so students will know what they have to post in the said section.
 * Media: Attach images, videos, audio, documents, images/youtube videos from the internet
 
-
-
-4. <mark style="background-color:blue;">**Publish:**</mark> Click **Add** to include the section in the board.
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to include the section in the board.
 
 
 
@@ -48,5 +44,7 @@ Sections are designed to:
 
 * **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
 * **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
+
+
 
 Sections help in organizing and structuring the content within a board, making it easier for teachers and students to manage and interact with their assignments effectively.
