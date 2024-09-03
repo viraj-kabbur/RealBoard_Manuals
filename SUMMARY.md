@@ -10,3 +10,8 @@
 
 * [Creating Boards](boards/creating-boards.md)
 * [Managing Boards](boards/managing-boards.md)
+
+## Sections
+
+* [Adding Sections](sections/adding-sections.md)
+* [Customizing Sections](sections/customizing-sections.md)
