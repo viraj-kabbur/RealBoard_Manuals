@@ -1,4 +1,4 @@
-# Cards
+# Creating Cards
 
 In RealBoard, **Cards** are individual tiles within a Section where students can document and share their work, reflections, and other relevant content. Each card represents a discrete piece of work or an individual entry related to the assignments and activities in the section.
 
@@ -18,23 +18,27 @@ Cards serve several important functions:
 
 ## How to Create a Card
 
-1. **Open Section:** Navigate to the section where you want to add a card.
-2. **Create New Card:** Click on the **Create New Card** button.
-3. **Enter Card Details:**
-   - **Title:** Provide a concise title for the card.
-   - **Description:** Add a detailed description of the content or work presented in the card.
-   - **Attachments:** Upload any relevant files, screenshots, or links.
-4. **Save:** Click **Save** to create the card.
+1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card.
 
-## Managing Cards
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820 (1).png" alt=""><figcaption></figcaption></figure>
 
-- **Edit:** Modify the title, description, or attachments of an existing card.
-- **Delete:** Remove a card if it is no longer needed or relevant.
-- **Reorder:** Change the position of cards within a section to organize them according to priority or relevance.
+2. <mark style="background-color:blue;">**Create New Card:**</mark> Click on the **Add Card** button.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 152103.png" alt=""><figcaption></figcaption></figure>
+
+3. <mark style="background-color:blue;">**Enter Card Details:**</mark>
+
+* **Name:** Provide a concise title for the card.
+* **Description:** Add a detailed description of the content or work presented in the card.
+* **Attachments:** Upload any relevant files, audio, screenshots, videos or links.
+
+4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to create the card.
+
+
 
 ## Examples of Card Usage
 
-- **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
-- **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
+* **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
+* **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
 
 Cards provide a flexible and organized way for students to present their work and for teachers to review and provide feedback. They are an essential component of the RealBoard platform, helping to manage and display student contributions effectively.

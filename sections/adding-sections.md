@@ -1,4 +1,4 @@
-# Sections
+# Adding Sections
 
 In RealBoard, **Sections** are components within a Board that help categorize and organize content related to assignments, projects, or topics. Each board can contain multiple sections, each serving a specific purpose or focus area.
 
@@ -14,28 +14,39 @@ Sections are designed to:
 
 1. **Title and Type:** Each section has a **Title** and a **Type**. The title describes the focus of the section, and the type determines the nature of content it holds.
 2. **Types of Sections:**
-   - **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
-   - **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
-   - **Custom Sections:** Teachers can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
+   * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
+   * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
+   * **Custom Sections:** Teachers can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
 
 ## How to Add a Section
 
-1. **Open Board:** Navigate to the board where you want to add a section.
-2. **Add Section:** Click on the **Add Section** button.
-3. **Enter Section Details:**
-   - **Title:** Provide a descriptive title for the section.
-   - **Type:** Choose the type of section from available options (e.g., SDG Challenges, Personal Reflection) or create a custom type.
-4. **Save:** Click **Add** to include the section in the board.
+1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section.
 
-## Managing Sections
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807.png" alt=""><figcaption></figcaption></figure>
 
-- **Edit:** Modify the title or type of an existing section.
-- **Delete:** Remove a section if it is no longer needed or relevant.
-- **Reorder:** Change the order of sections within a board to adjust the layout and flow of content.
+2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+* **Name:** Provide a descriptive title for the section.
+* **Description:** Provide a short description about your section so students will know what they have to post in the said section.
+* Media: Attach images, videos, audio, documents, images/youtube videos from the internet
+
+
+
+4. <mark style="background-color:blue;">**Publish:**</mark> Click **Add** to include the section in the board.
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+
 
 ## Examples of Section Usage
 
-- **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
-- **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
+* **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
+* **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
 
 Sections help in organizing and structuring the content within a board, making it easier for teachers and students to manage and interact with their assignments effectively.

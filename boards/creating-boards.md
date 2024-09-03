@@ -1,4 +1,4 @@
-# Boards
+# Creating Boards
 
 In RealBoard, **Boards** are the primary organizational structure used to manage and display assignments, projects, and student work. Each board is designed to hold various **Sections** that correspond to different aspects of the assignment or project.
 
@@ -19,20 +19,18 @@ Boards serve several key purposes:
 
 ## How to Create a Board
 
-1. **Access Boards Section:** Navigate to the **Home** area in RealBoard.
+1. <mark style="background-color:blue;">**Access Boards Section:**</mark> Navigate to the **Home** area in RealBoard.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807.png" alt=""><figcaption></figcaption></figure>
 
-2. **Create New Board:** Click on the **Add Board** button.
+2. <mark style="background-color:blue;">**Create New Board:**</mark> Click on the **Add Board** button.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807 (1).png" alt=""><figcaption></figcaption></figure>
 
-3. **Enter Board Details:** Provide a **Title**, and optionally, a **Description** for the board along with the Background color of your Board.
+3. <mark style="background-color:blue;">**Enter Board Details:**</mark> Provide a **Title**, and optionally, a **Description** for the board along with the Background color of your Board.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145826.png" alt=""><figcaption></figcaption></figure>
 
-4. **Save:** Click **Save** to finalize the creation of the board.
-
-
+4. <mark style="background-color:blue;">**Save:**</mark> Click **Save** to finalize the creation of the board.
 
 Boards are essential for managing assignments efficiently and providing a structured way for students and teachers to interact and collaborate.
