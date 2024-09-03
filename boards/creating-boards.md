@@ -1,4 +1,4 @@
-# Creating Boards
+# Boards
 
 In RealBoard, **Boards** are the primary organizational structure used to manage and display assignments, projects, and student work. Each board is designed to hold various **Sections** that correspond to different aspects of the assignment or project.
 
