@@ -1,16 +1,27 @@
-# RealBoard Manual
+---
+description: >-
+  RealBoard is a social network designed for schools that integrates with
+  RealLives. It allows teachers to assign tasks and students to share their
+  experiences through a collaborative platform.
+cover: .gitbook/assets/pexels-rdne-8500302.jpg
+coverY: -137.7377049180328
+---
 
-Welcome to the RealBoard Manual! RealBoard is a social network designed for schools that integrates with RealLives. It allows teachers to assign tasks and students to share their experiences through a collaborative platform.
+# Overview
 
-In this manual, you'll find all the information you need to get started with RealBoard, including how to create boards, manage sections, and utilize cards effectively.
+## <mark style="background-color:blue;">**Reflect, Share, Grow**</mark>
 
-## Getting Started
+This tagline encapsulates the essence of what RealBoard offers to its users—students, teachers, and educational institutions. Let’s break down each element and how it ties into the core activities of the platform
 
-To get started with RealBoard, follow these steps:
-1. **Log In:** Access RealBoard using your credentials.
-2. **Set Up Boards:** Create boards for your assignments.
-3. **Add Sections:** Organize boards with relevant sections.
-4. **Create Cards:** Students can add cards to share their work.
-5. **Manage Assignments:** Assign tasks and monitor progress.
+### **Reflect**
 
-For a detailed guide, continue to the relevant sections of this manual.
+* **Personal Reflection**: RealBoard encourages students to look back on their learning experiences and think critically about what they’ve learned. Through features like the "Personal Reflection" section, students can document their thoughts, insights, and feelings about the assignments they complete. This process not only reinforces learning but also helps in developing self-awareness and critical thinking skills.
+
+### **Share**
+
+* **Sharing Experiences**: RealBoard provides a platform where students can share their learning experiences with peers and teachers. By using Cards to upload screenshots, write posts, and share achievements within specific sections like "SDG Challenges," students are able to communicate their progress and insights in a structured yet creative way.
+
+### **Grow**
+
+* **Personal and Academic Growth**: The combination of reflection and sharing leads to growth—both personally and academically. RealBoard is designed to help students track their progress over time, set personal goals, and see how their efforts translate into growth.
+
