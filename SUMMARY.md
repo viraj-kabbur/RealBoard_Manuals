@@ -23,4 +23,6 @@
 
 ## RealBoard for Teachers
 
-* [Untitled](realboard-for-teachers/untitled.md)
+* [RealBoard and RealLives Integration](realboard-for-teachers/untitled.md)
+* [Creating a Class with Global Citizenship Assignment](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment.md)
+* [Creating a Class with Global Citizenship Assignment + Lesson Plan](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
