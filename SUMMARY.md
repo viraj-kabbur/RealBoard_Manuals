@@ -15,3 +15,8 @@
 
 * [Adding Sections](sections/adding-sections.md)
 * [Customizing Sections](sections/customizing-sections.md)
+
+## Cards
+
+* [Creating Cards](cards/creating-cards.md)
+* [Managing Cards](cards/managing-cards.md)
