@@ -8,7 +8,7 @@ Cards serve several important functions:
 
 1. **Showcase Work:** Allow students to present their completed assignments, projects, or reflections in a structured and accessible format.
 2. **Encourage Reflection:** Provide a space for students to share their thoughts, insights, and experiences related to their tasks or learning process.
-3. **Facilitate Interaction:** Enable teachers and peers to view, comment on, and provide feedback on the student’s work.
+3. **Facilitate Interaction:** Enable teachers and peers to view, comment on, and provide feedback on the student’s work.&#x20;
 
 ## Key Features of Cards
 
@@ -16,6 +16,7 @@ Cards serve several important functions:
 2. **Attachments:** Cards can include various attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
 3. **Comments and Feedback:** Cards may have a section for comments where teachers and peers can provide feedback or ask questions.
 4. **Stars**: Teachers can rate a card out of 5 stars based on the creativity of the card.
+5. **Reactions**: Students and Teachers can react on cards with the help of emojis (👍❤️😂😲😢😡)
 
 ## How to Create a Card
 
