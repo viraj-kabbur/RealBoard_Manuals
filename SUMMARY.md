@@ -24,5 +24,11 @@
 ## RealBoard for Teachers
 
 * [RealBoard and RealLives Integration](realboard-for-teachers/untitled.md)
-* [Creating a Class with Global Citizenship Assignment](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
+* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment.md)
+* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
+
+## RealBoard for Students
+
+* [Accessing RealBoard](realboard-for-students/accessing-realboard/README.md)
+  * [Through the RealLives Dashboard](realboard-for-students/accessing-realboard/through-the-reallives-dashboard.md)
+  * [When Added to a Class](realboard-for-students/accessing-realboard/when-added-to-a-class.md)
