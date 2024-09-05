@@ -25,11 +25,10 @@
 * [Creating Cards](cards/creating-cards.md)
 * [Managing Cards](cards/managing-cards.md)
 
-## RealBoard for Students
+## Accessing RealBoard
 
-* [Accessing RealBoard](realboard-for-students/accessing-realboard/README.md)
-  * [Through the RealLives Dashboard](realboard-for-students/accessing-realboard/through-the-reallives-dashboard.md)
-  * [When Added to a Class](realboard-for-students/accessing-realboard/when-added-to-a-class.md)
+* [Through the RealLives Dashboard](accessing-realboard/through-the-reallives-dashboard.md)
+* [When Added to a Class](accessing-realboard/when-added-to-a-class.md)
 
 ***
 
