@@ -16,7 +16,7 @@ Boards serve several key purposes:
 2. **Sections:** Boards are divided into **Sections** to further categorize and organize content. Sections can be customized and added as needed.
 3. **Assignments:** Within each section, teachers can create and manage **Assignments**. Each assignment is linked to the relevant sections and boards.
 4. **Student Cards:** Students can create **Cards** within sections to showcase their work, reflections, and screenshots related to the assignments.
-5. **Types:** When teachers create a class through the RealLives Dashboard and include RealBoard in it, the boards will be added to the Assignment tab. Boards created by the teacher within the RealBoard application will appear in the Personal tab.
+5. **Types:** When teachers create a class through the RealLives Dashboard and include RealBoard in it, the boards will be added to the Assignment tab. Boards created by the teacher within the RealBoard application will appear in the Personal tab. As a student you can only create a board in Personal tab.
 
 ## How to Create a Board
 

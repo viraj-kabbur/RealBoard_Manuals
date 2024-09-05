@@ -9,7 +9,6 @@
 ## Navigating through the UI
 
 * [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
-* [Inviting Students and Teachers to the Board](navigating-through-the-ui/inviting-students-and-teachers-to-the-board.md)
 
 ## Boards
 
@@ -25,12 +24,6 @@
 
 * [Creating Cards](cards/creating-cards.md)
 * [Managing Cards](cards/managing-cards.md)
-
-## RealBoard for Teachers
-
-* [RealBoard and RealLives Integration](realboard-for-teachers/untitled.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
 
 ## RealBoard for Students
 

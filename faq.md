@@ -12,10 +12,13 @@ To access RealBoard from within RealLives:
 
 1. **Log in** to RealLives and start your gameplay.
 2. Look for the **RealBoard** button on your dashboard or during gameplay.
-3. **Click** the RealBoard button to open the interface. You’ll have three options:
-   * Add a card with a screenshot
-   * Add a card without a screenshot
-   * Go to RealBoard Home
+3.  **Click** the RealBoard button to open the interface. You’ll have three options:
+
+    * Add a card with a screenshot
+    * Add a card without a screenshot
+    * Go to RealBoard Home
+
+
 
 ### 2. What are my options when I click the RealBoard button?
 
@@ -24,6 +27,8 @@ When you click the **RealBoard** button in RealLives, you are presented with thr
 1. **Add Card with Screenshot**: You can capture a screenshot from the game and post it to RealBoard.
 2. **Add Card without Screenshot**: You can post a card without attaching a screenshot.
 3. **Go to RealBoard Home**: You can return to the main RealBoard page where all your boards, cards, and assignments are organized.
+
+
 
 ### 3. How do I create a card with or without a screenshot?
 
@@ -36,15 +41,21 @@ After clicking **Add Card with Screenshot** or **Add Card without Screenshot**, 
 5. **Tag SDGs**: Select up to two **Sustainable Development Goals (SDGs)** that are relevant to your post.
 6. **Submit the Card**: Click **Add to RealBoard** to post your card to the board.
 
+
+
 ### 4. What are Sections in RealBoard?
 
 **Sections** are categories within a board that organize your cards by topic or assignment. Teachers create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
 
 For example, a section could be called **"Personal Reflection"** or **"About the Country"** and is where you’ll post your work related to that topic.
 
+
+
 ### 5. What are Cards?
 
 **Cards** are individual tiles in RealBoard where you post your work or reflections. Each card can include a title, description, media (such as screenshots), and SDG tags. Cards are submitted within the relevant sections of a board.
+
+
 
 ### 6. What are SDGs and why do I need to tag them?
 
@@ -52,13 +63,19 @@ For example, a section could be called **"Personal Reflection"** or **"About the
 
 For example, if your gameplay involves discussing health issues in a country, you might tag **Goal 3: Good Health and Well-being**.
 
+
+
 ### 7. How do I know which board I’m posting to?
 
 When creating a card, you will see the **Board Name** at the top of the card creation window. This tells you which class or assignment the board is connected to. Your teacher sets up the board when they create an assignment in RealBoard.
 
+
+
 ### 8. How can I see my total number of posts or cards?
 
 While you are creating or viewing a card, you will see the **Total Number of Cards** posted by you in that class or assignment. This helps you keep track of your progress.
+
+
 
 ### 9. What if I can’t upload a screenshot or media file?
 
@@ -70,6 +87,8 @@ If you’re having trouble uploading a screenshot or media file, check the follo
 
 If issues persist, contact support or your teacher for help.
 
+
+
 ### 10. What happens after I submit my card?
 
 Once you submit your card:
@@ -79,6 +98,8 @@ Once you submit your card:
 3. Your teacher may provide feedback or comments on your card.
 4. You can always view or edit your card by returning to the board.
 
+
+
 ### 11. How do I access the RealBoard Home page?
 
 If you select the **Go to RealBoard Home** option:
@@ -86,13 +107,16 @@ If you select the **Go to RealBoard Home** option:
 * You will be redirected to the main RealBoard page where all your boards, sections, and cards are displayed.
 * From here, you can manage your cards, explore different boards, and view the progress of your classmates.
 
+
+
 ### 12. What notifications will I receive?
 
 You will receive notifications in RealBoard for:
 
 * **New Class or Board**: When your teacher creates a new class and you are added to it.
-* **Assignment Updates**: Any updates related to assignments or posts in your boards.
-* **Feedback on Cards**: When your teacher provides feedback on a card you posted.
+* **Invitation to a Board**: When someone invites you to their personal board.
+
+
 
 ### 13. Can I edit a card after posting it?
 
@@ -103,6 +127,8 @@ Yes, you can edit your card after posting:
 3. Click the **Edit** button to update the title, description, media, or SDG tags.
 4. Save your changes.
 
+
+
 ### 14. What if I’m added to a new class in RealBoard?
 
 If your teacher adds you to a new class:
@@ -110,6 +136,8 @@ If your teacher adds you to a new class:
 * You will receive a **notification** letting you know that you’ve been added to a class.
 * A new **board** will automatically be created for the class in RealBoard.
 * You can access the board and start posting cards related to the class assignment.
+
+
 
 ### 15. What should I do if I can’t see my class or board?
 
