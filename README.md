@@ -4,7 +4,7 @@ description: >-
   RealLives. It allows teachers to assign tasks and students to share their
   experiences through a collaborative platform.
 cover: .gitbook/assets/pexels-rdne-8500302.jpg
-coverY: -209.17237158469945
+coverY: -462.0897049180328
 layout:
   cover:
     visible: true
