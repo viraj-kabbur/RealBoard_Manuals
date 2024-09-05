@@ -45,6 +45,12 @@ Whether you choose to add a card with or without a screenshot, the following fie
 * **Section Name**: You can choose which section of the board to post your card in. The section names are predetermined by your teacher (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
 * **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
 
+
+
+#### If you choose to add a screenshot, you get the option of cropping the screenshot to highlight only the important information in your card
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 132214.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094157.png" alt=""><figcaption></figcaption></figure>
 
 #### Card Fields:
