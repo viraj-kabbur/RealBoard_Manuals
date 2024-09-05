@@ -8,7 +8,7 @@ Cards serve several important functions:
 
 1. **Showcase Work:** Allow students to present their completed assignments, projects, or reflections in a structured and accessible format.
 2. **Encourage Reflection:** Provide a space for students to share their thoughts, insights, and experiences related to their tasks or learning process.
-3. **Facilitate Interaction:** Enable teachers and peers to view, comment on, and provide feedback on the student’s work.&#x20;
+3. **Facilitate Interaction:** Enable teachers and peers to view, comment on, and provide feedback on the student’s work.
 
 ## Key Features of Cards
 
@@ -22,21 +22,19 @@ In RealBoard, we’ve included a set of emojis for reactions to help users quick
 
 ## How to Create a Card
 
-1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card.
+1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card. Click on the **Add Card** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Create New Card:**</mark> Click on the **Add Card** button.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 152103.png" alt=""><figcaption></figcaption></figure>
-
-3. <mark style="background-color:blue;">**Enter Card Details:**</mark>
+2. <mark style="background-color:blue;">**Enter Card Details:**</mark>
 
 * **Name:** Provide a concise title for the card.
 * **Description:** Add a detailed description of the content or work presented in the card.
 * **Attachments:** Upload any relevant files, audio, screenshots, videos or links.
 
-4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to create the card.
+3. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to create the card.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 172857.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -44,7 +42,5 @@ In RealBoard, we’ve included a set of emojis for reactions to help users quick
 
 * **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
 * **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
-
-
 
 Cards provide a flexible and organized way for students to present their work and for teachers to review and provide feedback. They are an essential component of the RealBoard platform, helping to manage and display student contributions effectively.

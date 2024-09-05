@@ -6,23 +6,23 @@ If your teacher adds you to a class with an assignment:
 
 1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 145536.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Class Details:**</mark> The notification will include information about the class and assignment.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 182628.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 182628.png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Start Living the Life:**</mark> Click on the "Take on an assignment" button
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 182615.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 182615.png" alt=""><figcaption></figcaption></figure>
 
 **When you are playing RealLives:**
 
-<figure><img src="../../.gitbook/assets/Untitled design (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (4).png" alt=""><figcaption></figcaption></figure>
 
 #### **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
 
-<figure><img src="../../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Adding a Card in RealBoard (from within RealLives)
 
@@ -32,7 +32,7 @@ When you click the **RealBoard** button in RealLives, you are presented with thr
 2. **Add Card without Screenshot**
 3. **Go to RealBoard Home**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094009.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094009.png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Adding a Card with or without Screenshot
 
@@ -45,13 +45,11 @@ Whether you choose to add a card with or without a screenshot, the following fie
 * **Section Name**: You can choose which section of the board to post your card in. The section names are predetermined by your teacher (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
 * **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
 
-
-
 #### If you choose to add a screenshot, you get the option of cropping the screenshot to highlight only the important information in your card
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 132214.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 132214.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094157.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094157.png" alt=""><figcaption></figcaption></figure>
 
 #### Card Fields:
 
@@ -65,7 +63,7 @@ Whether you choose to add a card with or without a screenshot, the following fie
 
     You can only add **one media item per category** to your card.
 
-#### Tag SDGs (Sustainable Development Goals): <mark style="background-color:red;">Maximum 2</mark>&#x20;
+#### Tag SDGs (Sustainable Development Goals): <mark style="background-color:red;">Maximum 2</mark>
 
 * **Select Two SDGs**: You will be asked to select up to two relevant **Sustainable Development Goals (SDGs)** from the list of 17. These should align with the theme of your post. The SDGs include goals like **No Poverty**, **Quality Education**, and **Climate Action**.
 
@@ -74,11 +72,10 @@ Whether you choose to add a card with or without a screenshot, the following fie
 * Once you have filled out all the required fields (title, description, media, and SDGs), click the **Add to RealBoard** button to post your card.
 * Your card will be visible to your teacher and classmates, and will be part of the board associated with your class.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094626.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094626.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
 ### 2. Go to RealBoard Home
 
 If you choose the **Go to RealBoard Home** option, you will be redirected to the RealBoard main page. Here, you can view all your boards, navigate between different sections, and manage your cards across different classes.
-

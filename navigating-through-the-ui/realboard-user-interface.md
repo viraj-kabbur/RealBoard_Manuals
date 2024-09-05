@@ -4,9 +4,11 @@ description: Exploring all the features RealBoard has to offer
 
 # RealBoard User Interface
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 151137.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 The RealBoard interface is designed to provide an intuitive and organized user experience. Below is a guide to understanding the various elements of the UI, starting from the left side and moving across the screen.
+
+## Numbers are assigned with information below -&#x20;
 
 ## 1. Board Information
 

@@ -20,13 +20,13 @@ Sections are designed to:
 
 ## How to Add a Section
 
-1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section.
+1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section. Click on View Board.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (8).png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
 
@@ -34,19 +34,13 @@ Sections are designed to:
 * **Description:** Provide a short description about your section so students will know what they have to post in the said section.
 * Media: Attach images, videos, audio, documents, images/youtube videos from the internet
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 155325.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 171733.png" alt=""><figcaption></figcaption></figure>
 
 4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to include the section in the board.
-
-
 
 ## Examples of Section Usage
 
 * **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
 * **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
-
-
 
 Sections help in organizing and structuring the content within a board, making it easier for teachers and students to manage and interact with their assignments effectively.

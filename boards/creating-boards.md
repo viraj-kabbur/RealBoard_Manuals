@@ -20,17 +20,17 @@ Boards serve several key purposes:
 
 ## How to Create a Board
 
-1. <mark style="background-color:blue;">**Access Boards Section:**</mark> Navigate to the **Home** area in RealBoard.
+1. <mark style="background-color:blue;">**Access Boards Section:**</mark> Navigate to the **Home** area in RealBoard, and switch to the Personal tab.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 170522.png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Create New Board:**</mark> Click on the **Add Board** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (7).png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Enter Board Details:**</mark> Provide a **Title**, and optionally, a **Description** for the board along with the Background color of your Board.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145826.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 170953.png" alt=""><figcaption></figcaption></figure>
 
 4. <mark style="background-color:blue;">**Save:**</mark> Click **Save** to finalize the creation of the board.
 
