@@ -32,3 +32,7 @@
 * [Accessing RealBoard](realboard-for-students/accessing-realboard/README.md)
   * [Through the RealLives Dashboard](realboard-for-students/accessing-realboard/through-the-reallives-dashboard.md)
   * [When Added to a Class](realboard-for-students/accessing-realboard/when-added-to-a-class.md)
+
+***
+
+* [FAQ](faq.md)
