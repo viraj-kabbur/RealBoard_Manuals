@@ -13,7 +13,7 @@ Sections are designed to:
 ## Key Features of Sections
 
 1. **Title:** Each section has a **Title**. The title describes the focus of the section.
-2. **Types of Sections:**
+2. **Examples of Sections:**
    * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
    * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
    * **Custom Sections:** Teachers can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
@@ -30,11 +30,13 @@ Sections are designed to:
 
 3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 155325.png" alt=""><figcaption></figcaption></figure>
-
 * **Name:** Provide a descriptive title for the section.
 * **Description:** Provide a short description about your section so students will know what they have to post in the said section.
 * Media: Attach images, videos, audio, documents, images/youtube videos from the internet
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 155325.png" alt=""><figcaption></figcaption></figure>
+
+
 
 4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to include the section in the board.
 

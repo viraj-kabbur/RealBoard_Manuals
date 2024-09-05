@@ -13,10 +13,12 @@ Cards serve several important functions:
 ## Key Features of Cards
 
 1. **Title and Description:** Each card has a **Title** and **Description**. The title briefly identifies the content of the card, while the description provides more detailed information.
-2. **Attachments:** Cards can include various attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
+2. **Attachments:** Cards can include various relevant attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
 3. **Comments and Feedback:** Cards may have a section for comments where teachers and peers can provide feedback or ask questions.
 4. **Stars**: Teachers can rate a card out of 5 stars based on the creativity of the card.
-5. **Reactions**: Students and Teachers can react on cards with the help of emojis (👍❤️😂😲😢😡)
+5. **Reactions**: Students and Teachers can react on cards with the help of emojis.
+
+In RealBoard, we’ve included a set of emojis for reactions to help users quickly express their thoughts and feelings about a post. These emojis— 👍 (Like), ❤️ (Love), 😂 (Funny), 😲 (Surprised), 😢 (Sad), and 😡 (Angry)— offer a range of emotional responses, allowing for a more interactive and engaging experience. By using reactions, students and teachers can easily provide feedback or acknowledge a post without needing to leave a comment, making interaction faster and more fun.
 
 ## How to Create a Card
 

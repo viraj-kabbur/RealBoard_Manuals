@@ -51,7 +51,7 @@ Whether you choose to add a card with or without a screenshot, the following fie
 
 * **Card Title**: Enter a descriptive title for your card. The title should reflect the content or main idea of your post (e.g., “Born in a Country with the Lowest Marriage Age”).
 * **Card Description**: This is where you provide a more detailed explanation of your post. You can format the description with bold, italics, or underline text, and you can also include lists.
-*   **Add Media**: You have the option to attach media from various categories, including:
+*   **Add Media**: You have the option to attach relevant media from various categories, including:
 
     * **Image** (e.g., a reference image you would like to show)
     * **Video**
@@ -59,7 +59,7 @@ Whether you choose to add a card with or without a screenshot, the following fie
 
     You can only add **one media item per category** to your card.
 
-#### Tag SDGs (Sustainable Development Goals):
+#### Tag SDGs (Sustainable Development Goals): <mark style="background-color:red;">Maximum 2</mark>&#x20;
 
 * **Select Two SDGs**: You will be asked to select up to two relevant **Sustainable Development Goals (SDGs)** from the list of 17. These should align with the theme of your post. The SDGs include goals like **No Poverty**, **Quality Education**, and **Climate Action**.
 

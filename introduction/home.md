@@ -32,9 +32,3 @@ In order to save time, you will find links of specific pages that you might want
 
 
 
-* ### How can Students use RealBoard ?&#x20;
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
