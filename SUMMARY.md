@@ -5,6 +5,11 @@
 * [Overview](README.md)
 * [Getting Started](introduction/getting-started.md)
 * [Home](introduction/home.md)
+* [Page](introduction/page.md)
+
+## Navigating through the UI
+
+* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
 
 ## Boards
 
