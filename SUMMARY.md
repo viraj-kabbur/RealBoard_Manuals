@@ -10,6 +10,7 @@
 ## Navigating through the UI
 
 * [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
+* [User Invitation](navigating-through-the-ui/user-invitation.md)
 
 ## Boards
 
