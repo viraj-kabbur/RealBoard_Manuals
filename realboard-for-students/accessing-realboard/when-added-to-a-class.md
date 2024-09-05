@@ -14,7 +14,16 @@ If your teacher adds you to a class with an assignment:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-09-03 182615.png" alt=""><figcaption></figcaption></figure>
 
-When you are playing RealLives:
+**When you are playing RealLives:**
 
-1. **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
-2. **Open RealBoard:** Click the **RealBoard** button to access RealBoard directly from your game.
+<figure><img src="../../.gitbook/assets/Untitled design (4).png" alt=""><figcaption></figcaption></figure>
+
+### **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
+
+<figure><img src="../../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+###
