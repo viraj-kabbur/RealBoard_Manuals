@@ -22,13 +22,13 @@ In RealBoard, we’ve included a set of emojis for reactions to help users quick
 
 ## How to Create a Card
 
-1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card.
+1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card. Click on the **Add Card** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Create New Card:**</mark> Click on the **Add Card** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 152103.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 180911.png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Enter Card Details:**</mark>
 

@@ -8,19 +8,19 @@ To get started with RealBoard, follow these steps:
 
 1. **Log In:** Access RealBoard through RealLives Dashboard using your credentials. Then click on the RealBoard button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145536.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
 
 2. **Set Up Boards:** Create boards for your assignments.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145600.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 173700.png" alt=""><figcaption></figcaption></figure>
 
 3. **Add Sections:** Organize boards with relevant sections.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145834.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 173719.png" alt=""><figcaption></figcaption></figure>
 
 4. **Create Cards:** Students can add cards to share their work.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 173738.png" alt=""><figcaption></figcaption></figure>
 
 5. **Manage Assignments:** Assign tasks and monitor progress.
 

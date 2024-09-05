@@ -20,13 +20,13 @@ Sections are designed to:
 
 ## How to Add a Section
 
-1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section.
+1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section. Click on View Board.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 151820 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
 
@@ -34,7 +34,7 @@ Sections are designed to:
 * **Description:** Provide a short description about your section so students will know what they have to post in the said section.
 * Media: Attach images, videos, audio, documents, images/youtube videos from the internet
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 155325.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 180630.png" alt=""><figcaption></figcaption></figure>
 
 
 

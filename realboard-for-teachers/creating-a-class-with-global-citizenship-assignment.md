@@ -65,4 +65,4 @@ This section encourages students to discuss and reflect on events that troubled 
 
 #### A corresponding board will be created in RealBoard for this class, and students will receive a notification.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 180306.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 175713 (1).png" alt=""><figcaption></figcaption></figure>

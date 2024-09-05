@@ -22,16 +22,16 @@ Boards serve several key purposes:
 
 1. <mark style="background-color:blue;">**Access Boards Section:**</mark> Navigate to the **Home** area in RealBoard.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 175713.png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Create New Board:**</mark> Click on the **Add Board** button.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145807 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 3. <mark style="background-color:blue;">**Enter Board Details:**</mark> Provide a **Title**, and optionally, a **Description** for the board along with the Background color of your Board.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145826.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 180043.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Save:**</mark> Click **Save** to finalize the creation of the board.
+4. <mark style="background-color:blue;">**Save:**</mark> Click **Add Board** to finalize the creation of the board.
 
 Boards are essential for managing assignments efficiently and providing a structured way for students and teachers to interact and collaborate.
