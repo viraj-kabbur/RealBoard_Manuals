@@ -1,5 +1,7 @@
 # When Added to a Class
 
+## When Added to a Class
+
 If your teacher adds you to a class with an assignment:
 
 1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
@@ -18,11 +20,11 @@ If your teacher adds you to a class with an assignment:
 
 <figure><img src="../../.gitbook/assets/Untitled design (4).png" alt=""><figcaption></figcaption></figure>
 
-### **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
+#### **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
 
 <figure><img src="../../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
 
-# Adding a Card in RealBoard (from within RealLives)
+## Adding a Card in RealBoard (from within RealLives)
 
 When you click the **RealBoard** button in RealLives, you are presented with three options:
 
@@ -30,51 +32,48 @@ When you click the **RealBoard** button in RealLives, you are presented with thr
 2. **Add Card without Screenshot**
 3. **Go to RealBoard Home**
 
-## 1. Adding a Card with or without Screenshot
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094009.png" alt=""><figcaption></figcaption></figure>
+
+### 1. Adding a Card with or without Screenshot
 
 Whether you choose to add a card with or without a screenshot, the following fields and features are common:
 
-### Common Fields and Features:
+#### Common Fields and Features:
 
-- **Board Name**: The name of the board associated with your class is displayed at the top of the card creation window. This helps you keep track of which assignment you are working on.
-  
-- **Your Name**: Your name as a student will appear at the top, confirming your identity.
+* **Board Name**: The name of the board associated with your class is displayed at the top of the card creation window. This helps you keep track of which assignment you are working on.
+* **Character Attributes**: The name, age, gender of your current character in RealLives will also be displayed. This connects the actions you take in RealLives with the card you are posting on RealBoard.
+* **Section Name**: You can choose which section of the board to post your card in. The section names are predetermined by your teacher (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
+* **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
 
-- **Character Name**: The name of your current character in RealLives will also be displayed. This connects the actions you take in RealLives with the card you are posting on RealBoard.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094157.png" alt=""><figcaption></figcaption></figure>
 
-- **Section Name**: You can choose which section of the board to post your card in. The section names are predetermined by your teacher (e.g., "About the Country"). You will also see the total number of cards already posted in that section.
+#### Card Fields:
 
-- **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
+* **Card Title**: Enter a descriptive title for your card. The title should reflect the content or main idea of your post (e.g., “Born in a Country with the Lowest Marriage Age”).
+* **Card Description**: This is where you provide a more detailed explanation of your post. You can format the description with bold, italics, or underline text, and you can also include lists.
+*   **Add Media**: You have the option to attach media from various categories, including:
 
-### Card Fields:
+    * **Image** (e.g., a reference image you would like to show)
+    * **Video**
+    * **Document** (e.g., a written report or reflection)
 
-- **Card Title**: Enter a descriptive title for your card. The title should reflect the content or main idea of your post (e.g., “Born in a Country with the Lowest Marriage Age”).
+    You can only add **one media item per category** to your card.
 
-- **Card Description**: This is where you provide a more detailed explanation of your post. You can format the description with bold, italics, or underline text, and you can also include lists.
+#### Tag SDGs (Sustainable Development Goals):
 
-- **Add Media**: You have the option to attach media from various categories, including:
-  - **Image** (e.g., a screenshot from RealLives if you selected the "Add Card with Screenshot" option)
-  - **Video**
-  - **Document** (e.g., a written report or reflection)
+* **Select Two SDGs**: You will be asked to select up to two relevant **Sustainable Development Goals (SDGs)** from the list of 17. These should align with the theme of your post. The SDGs include goals like **No Poverty**, **Quality Education**, and **Climate Action**.
 
-  You can only add **one media item per category** to your card.
+#### Posting the Card:
 
-### Tag SDGs (Sustainable Development Goals):
+* Once you have filled out all the required fields (title, description, media, and SDGs), click the **Add to RealBoard** button to post your card.
+* Your card will be visible to your teacher and classmates, and will be part of the board associated with your class.
 
-- **Select Two SDGs**: You will be asked to select up to two relevant **Sustainable Development Goals (SDGs)** from the list of 17. These should align with the theme of your post. The SDGs include goals like **No Poverty**, **Quality Education**, and **Climate Action**.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
-### Posting the Card:
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-05 094626.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
-- Once you have filled out all the required fields (title, description, media, and SDGs), click the **Add to RealBoard** button to post your card.
-- Your card will be visible to your teacher and classmates, and will be part of the board associated with your class.
-
-## 2. Go to RealBoard Home
+### 2. Go to RealBoard Home
 
 If you choose the **Go to RealBoard Home** option, you will be redirected to the RealBoard main page. Here, you can view all your boards, navigate between different sections, and manage your cards across different classes.
 
-
-
-
-
-
-###
+####
