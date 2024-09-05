@@ -12,7 +12,7 @@ Sections are designed to:
 
 ## Key Features of Sections
 
-1. **Title and Type:** Each section has a **Title** and a **Type**. The title describes the focus of the section, and the type determines the nature of content it holds.
+1. **Title:** Each section has a **Title**. The title describes the focus of the section.
 2. **Types of Sections:**
    * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
    * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.

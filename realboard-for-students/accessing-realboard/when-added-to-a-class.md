@@ -76,4 +76,3 @@ Whether you choose to add a card with or without a screenshot, the following fie
 
 If you choose the **Go to RealBoard Home** option, you will be redirected to the RealBoard main page. Here, you can view all your boards, navigate between different sections, and manage your cards across different classes.
 
-####
