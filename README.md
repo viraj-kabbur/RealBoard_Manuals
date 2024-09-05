@@ -3,12 +3,7 @@ description: >-
   RealBoard is a social network designed for schools that integrates with
   RealLives. It allows teachers to assign tasks and students to share their
   experiences through a collaborative platform.
-cover: .gitbook/assets/pexels-rdne-8500302.jpg
-coverY: -462.0897049180328
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
