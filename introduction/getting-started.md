@@ -6,7 +6,7 @@ In this manual, you'll find all the information you need to get started with Rea
 
 To get started with RealBoard, follow these steps:
 
-1. **Log In:** Access RealBoard through RealLives Dashboard using your credentials.
+1. **Log In:** Access RealBoard through RealLives Dashboard using your credentials. Then click on the RealBoard button.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 145536.png" alt=""><figcaption></figcaption></figure>
 

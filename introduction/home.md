@@ -22,7 +22,7 @@ In order to save time, you will find links of specific pages that you might want
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-***
+
 
 * ### How can Teachers use RealBoard ?&#x20;
 
@@ -30,4 +30,11 @@ In order to save time, you will find links of specific pages that you might want
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-***
+
+
+* ### How can Students use RealBoard ?&#x20;
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
