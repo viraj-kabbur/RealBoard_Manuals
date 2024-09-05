@@ -32,6 +32,6 @@ Boards serve several key purposes:
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 170953.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Save:**</mark> Click **Save** to finalize the creation of the board.
+4. <mark style="background-color:blue;">**Save:**</mark> Click **Add Board** to finalize the creation of the board.
 
 Boards are essential for managing assignments efficiently and providing a structured way for students and teachers to interact and collaborate.
