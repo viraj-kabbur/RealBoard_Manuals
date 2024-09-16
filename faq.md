@@ -1,152 +1,151 @@
 ---
 description: >-
-  This FAQ is designed to answer common questions and provide guidance for
-  students and teachers using RealBoard in conjunction with RealLives.
+  이 FAQ는 RealBoard와 RealLives를 함께 사용하는 학생과 교사/교수를 위한 일반적인 질문에 대한 답변과 지침을 제공합니다.
 ---
 
 # FAQ
 
-### 1. How do I access RealBoard from RealLives?
+### 1. RealLives에서 RealBoard에 어떻게 접근하나요?
 
-To access RealBoard from within RealLives:
+RealLives 내에서 RealBoard에 접근하려면:
 
-1. **Log in** to RealLives and start your gameplay.
-2. Look for the **RealBoard** button on your dashboard or during gameplay.
-3.  **Click** the RealBoard button to open the interface. You’ll have three options:
+1. RealLives에 **로그인**하고 게임을 시작하세요.
+2. 대시보드 또는 게임 중에 **RealBoard** 버튼을 찾으세요.
+3. **RealBoard** 버튼을 클릭하여 인터페이스를 열면 세 가지 옵션이 표시됩니다:
 
-    * Add a card with a screenshot
-    * Add a card without a screenshot
-    * Go to RealBoard Home
+    * 스크린샷이 포함된 카드 추가
+    * 스크린샷 없이 카드 추가
+    * RealBoard 홈으로 이동
 
 
 
-### 2. What are my options when I click the RealBoard button?
+### 2. RealBoard 버튼을 클릭하면 어떤 옵션이 있나요?
 
-When you click the **RealBoard** button in RealLives, you are presented with three options:
+RealLives에서 **RealBoard** 버튼을 클릭하면 세 가지 옵션이 표시됩니다:
 
-1. **Add Card with Screenshot**: You can capture a screenshot from the game and post it to RealBoard.
-2. **Add Card without Screenshot**: You can post a card without attaching a screenshot.
-3. **Go to RealBoard Home**: You can return to the main RealBoard page where all your boards, cards, and assignments are organized.
+1. **스크린샷이 포함된 카드 추가**: 게임의 스크린샷을 캡처하여 RealBoard에 게시할 수 있습니다.
+2. **스크린샷 없이 카드 추가**: 스크린샷을 첨부하지 않고 카드를 게시할 수 있습니다.
+3. **RealBoard 홈으로 이동**: 모든 보드, 카드 및 과제가 정리된 메인 RealBoard 페이지로 돌아갈 수 있습니다.
 
 
 
-### 3. How do I create a card with or without a screenshot?
+### 3. 스크린샷이 포함되거나 없는 카드는 어떻게 생성하나요?
 
-After clicking **Add Card with Screenshot** or **Add Card without Screenshot**, you will need to:
+**스크린샷이 포함된 카드 추가** 또는 **스크린샷 없이 카드 추가**를 클릭한 후 다음 단계를 따릅니다:
 
-1. **Select a Section**: Choose which section in the board you want to post to. Each section corresponds to different topics or assignments.
-2. **Provide a Title**: Enter a descriptive title for your card.
-3. **Write a Description**: Provide a detailed explanation or reflection related to your gameplay.
-4. **Attach Media (Optional)**: You can add media such as images, videos, or documents.
-5. **Tag SDGs**: Select up to two **Sustainable Development Goals (SDGs)** that are relevant to your post.
-6. **Submit the Card**: Click **Add to RealBoard** to post your card to the board.
+1. **섹션 선택**: 카드를 게시할 보드의 섹션을 선택하세요. 각 섹션은 다른 주제나 과제에 해당됩니다.
+2. **제목 제공**: 카드에 대한 설명적인 제목을 입력하세요.
+3. **설명 작성**: 게임과 관련된 자세한 설명이나 반성을 작성하세요.
+4. **미디어 첨부 (선택 사항)**: 이미지, 비디오, 문서와 같은 미디어를 추가할 수 있습니다.
+5. **SDG 태그 지정**: 게시물과 관련된 **최대 두 개의 지속 가능한 개발 목표(SDGs)**를 선택하세요.
+6. **카드 제출**: **RealBoard에 추가** 버튼을 클릭하여 카드를 보드에 게시하세요.
 
 
 
-### 4. What are Sections in RealBoard?
+### 4. RealBoard에서 섹션이란 무엇인가요?
 
-**Sections** are categories within a board that organize your cards by topic or assignment. Teachers create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
+**섹션**은 보드 내에서 카드를 주제나 과제별로 조직하는 카테고리입니다. 교사/교수가 수업의 목표에 따라 이 섹션을 생성합니다. 카드를 게시할 때, 해당 게시물에 가장 적합한 섹션을 선택합니다.
 
-For example, a section could be called **"Personal Reflection"** or **"About the Country"** and is where you’ll post your work related to that topic.
+예를 들어, **"개인 반성"**이나 **"국가에 대한 정보"**와 같은 섹션이 있으며, 이 섹션에 해당 주제와 관련된 작업을 게시합니다.
 
 
 
-### 5. What are Cards?
+### 5. 카드란 무엇인가요?
 
-**Cards** are individual tiles in RealBoard where you post your work or reflections. Each card can include a title, description, media (such as screenshots), and SDG tags. Cards are submitted within the relevant sections of a board.
+**카드**는 RealBoard에서 작업이나 반성을 게시하는 개별 타일입니다. 각 카드는 제목, 설명, 미디어(예: 스크린샷), SDG 태그를 포함할 수 있습니다. 카드는 보드의 관련 섹션 내에서 제출됩니다.
 
 
 
-### 6. What are SDGs and why do I need to tag them?
+### 6. SDG란 무엇이며, 왜 태그를 지정해야 하나요?
 
-**SDGs** stand for **Sustainable Development Goals**, which are a set of 17 global goals designed by the United Nations to promote sustainability. When you create a card, you can select **up to two SDGs** that relate to the content of your card.
+**SDG**는 **지속 가능한 개발 목표(Sustainable Development Goals)**를 의미하며, 이는 유엔이 지속 가능성을 촉진하기 위해 설정한 17개의 글로벌 목표입니다. 카드를 생성할 때, 게시물의 내용과 관련된 **최대 두 개의 SDGs**를 선택할 수 있습니다.
 
-For example, if your gameplay involves discussing health issues in a country, you might tag **Goal 3: Good Health and Well-being**.
+예를 들어, 게임에서 국가의 건강 문제를 논의하는 경우 **목표 3: 건강과 웰빙**을 태그할 수 있습니다.
 
 
 
-### 7. How do I know which board I’m posting to?
+### 7. 어떤 보드에 게시하는지 어떻게 알 수 있나요?
 
-When creating a card, you will see the **Board Name** at the top of the card creation window. This tells you which class or assignment the board is connected to. Your teacher sets up the board when they create an assignment in RealBoard.
+카드를 생성할 때 카드 작성 창 상단에서 **보드 이름**을 확인할 수 있습니다. 이는 해당 보드가 어떤 수업이나 과제와 연결되어 있는지 알려줍니다. 보드는 교사/교수가 RealBoard에서 과제를 생성할 때 설정됩니다.
 
 
 
-### 8. How can I see my total number of posts or cards?
+### 8. 내가 게시한 카드 또는 게시물의 총 수를 어떻게 알 수 있나요?
 
-While you are creating or viewing a card, you will see the **Total Number of Cards** posted by you in that class or assignment. This helps you keep track of your progress.
+카드를 생성하거나 조회할 때, 수업 또는 과제에서 **내가 게시한 카드의 총 수**를 확인할 수 있습니다. 이를 통해 자신의 진행 상황을 추적할 수 있습니다.
 
 
 
-### 9. What if I can’t upload a screenshot or media file?
+### 9. 스크린샷이나 미디어 파일을 업로드할 수 없을 때는 어떻게 하나요?
 
-If you’re having trouble uploading a screenshot or media file, check the following:
+스크린샷이나 미디어 파일을 업로드하는 데 문제가 있을 경우 다음 사항을 확인하세요:
 
-* Ensure the file is the correct format (e.g., .jpg, .png for images, .mp4 for videos).
-* Check the file size; large files may not upload easily.
-* Verify your internet connection is stable.
+* 파일 형식이 올바른지 확인하세요 (예: 이미지의 경우 .jpg, .png, 비디오의 경우 .mp4).
+* 파일 크기를 확인하세요. 큰 파일은 업로드가 어려울 수 있습니다.
+* 인터넷 연결이 안정적인지 확인하세요.
 
-If issues persist, contact support or your teacher for help.
+문제가 지속되면, 지원팀이나 교사/교수에게 문의하세요.
 
 
 
-### 10. What happens after I submit my card?
+### 10. 카드를 제출한 후에는 어떻게 되나요?
 
-Once you submit your card:
+카드를 제출하면:
 
-1. Your card will be posted in the relevant section of the board.
-2. It will be visible to your teacher and classmates.
-3. Your teacher may provide feedback or comments on your card.
-4. You can always view or edit your card by returning to the board.
+1. 해당 보드의 관련 섹션에 카드가 게시됩니다.
+2. 카드가 교사/교수와 동료들에게 공개됩니다.
+3. 교사/교수가 카드에 대해 피드백이나 댓글을 제공할 수 있습니다.
+4. 언제든지 보드로 돌아가 카드를 조회하거나 편집할 수 있습니다.
 
 
 
-### 11. How do I access the RealBoard Home page?
+### 11. RealBoard 홈 페이지에 어떻게 접근하나요?
 
-If you select the **Go to RealBoard Home** option:
+**RealBoard 홈으로 이동** 옵션을 선택하면:
 
-* You will be redirected to the main RealBoard page where all your boards, sections, and cards are displayed.
-* From here, you can manage your cards, explore different boards, and view the progress of your classmates.
+* 모든 보드, 섹션, 카드가 표시된 메인 RealBoard 페이지로 리디렉션됩니다.
+* 여기에서 카드를 관리하고, 다양한 보드를 탐색하며, 동료들의 진행 상황을 확인할 수 있습니다.
 
 
 
-### 12. What notifications will I receive?
+### 12. 어떤 알림을 받게 되나요?
 
-You will receive notifications in RealBoard for:
+RealBoard에서 받을 수 있는 알림:
 
-* **New Class or Board**: When your teacher creates a new class and you are added to it.
-* **Invitation to a Board**: When someone invites you to their personal board.
+* **새로운 수업 또는 보드**: 교사/교수가 새로운 수업을 생성하고 당신을 추가했을 때.
+* **보드 초대**: 누군가가 개인 보드로 초대했을 때.
 
 
 
-### 13. Can I edit a card after posting it?
+### 13. 게시한 카드를 편집할 수 있나요?
 
-Yes, you can edit your card after posting:
+네, 게시한 카드를 편집할 수 있습니다:
 
-1. Go to the board where you submitted the card.
-2. Find the card you wish to edit.
-3. Click the **Edit** button to update the title, description, media, or SDG tags.
-4. Save your changes.
+1. 카드를 제출한 보드로 이동하세요.
+2. 편집할 카드를 찾으세요.
+3. **편집** 버튼을 클릭하여 제목, 설명, 미디어 또는 SDG 태그를 업데이트하세요.
+4. 변경 사항을 저장하세요.
 
 
 
-### 14. What if I’m added to a new class in RealBoard?
+### 14. 새로운 수업에 추가되면 어떻게 하나요?
 
-If your teacher adds you to a new class:
+교사/교수가 새로운 수업에 당신을 추가하면:
 
-* You will receive a **notification** letting you know that you’ve been added to a class.
-* A new **board** will automatically be created for the class in RealBoard.
-* You can access the board and start posting cards related to the class assignment.
+* **알림**을 통해 수업에 추가되었음을 알려줍니다.
+* RealBoard에 해당 수업을 위한 **새 보드**가 자동으로 생성됩니다.
+* 보드에 접근하여 수업 과제와 관련된 카드를 게시할 수 있습니다.
 
 
 
-### 15. What should I do if I can’t see my class or board?
+### 15. 내 수업이나 보드를 볼 수 없을 때는 어떻게 하나요?
 
-If you cannot see your class or board in RealBoard:
+RealBoard에서 수업이나 보드를 볼 수 없는 경우:
 
-1. Check your notifications for updates on new classes or boards.
-2. Ensure that you are logged in with the correct student account.
-3. Contact your teacher to confirm that you’ve been added to the correct class.
+1. 새로운 수업이나 보드에 대한 업데이트 알림을 확인하세요.
+2. 올바른 학생 계정으로 로그인했는지 확인하세요.
+3. 교사/교수에게 연락하여 올바른 수업에 추가되었는지 확인하세요.
 
-If you still have trouble, you may need to contact RealBoard support.
+그래도 문제가 해결되지 않으면 RealBoard 지원팀에 문의해야 할 수 있습니다.
 
 ***
