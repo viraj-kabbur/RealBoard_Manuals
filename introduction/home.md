@@ -24,7 +24,7 @@ In order to save time, you will find links of specific pages that you might want
 
 
 
-* ### How can Teachers use RealBoard ?&#x20;
+* ### How can Teachers/Professors use RealBoard ?&#x20;
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
