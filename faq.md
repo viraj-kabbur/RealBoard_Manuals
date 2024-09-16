@@ -1,7 +1,7 @@
 ---
 description: >-
   This FAQ is designed to answer common questions and provide guidance for
-  students and teachers using RealBoard in conjunction with RealLives.
+  students and teachers/professors using RealBoard in conjunction with RealLives.
 ---
 
 # FAQ
@@ -38,7 +38,7 @@ After clicking **Add Card with Screenshot** or **Add Card without Screenshot**, 
 
 ### 4. What are Sections in RealBoard?
 
-**Sections** are categories within a board that organize your cards by topic or assignment. Teachers create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
+**Sections** are categories within a board that organize your cards by topic or assignment. Teachers/Professors create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
 
 For example, a section could be called **"Personal Reflection"** or **"About the Country"** and is where you’ll post your work related to that topic.
 
