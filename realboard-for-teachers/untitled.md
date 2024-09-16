@@ -1,10 +1,10 @@
-# RealBoard and RealLives Integration Manual
+# RealBoard와 RealLives 통합 매뉴얼
 
-This manual provides guidance on using RealBoard in conjunction with RealLives classes. Teachers can create classes with assignments and integrate RealBoard to enhance student engagement and feedback.
+이 매뉴얼은 RealLives 수업과 함께 RealBoard를 사용하는 방법에 대한 지침을 제공합니다. 교사/교수는 과제를 포함한 수업을 생성하고 RealBoard를 통합하여 학생들의 참여와 피드백을 강화할 수 있습니다.
 
-## Purpose of Integration
+## 통합의 목적
 
-The integration allows teachers to:
-- Create and manage classes with RealLives assignments.
-- Utilize RealBoard for posting and sharing student work and reflections.
-- Facilitate better interaction and feedback between students and teachers.
+통합을 통해 교사/교수는 다음을 할 수 있습니다:
+- RealLives 과제를 포함한 수업을 생성하고 관리할 수 있습니다.
+- 학생들의 작업과 반성을 게시하고 공유하기 위해 RealBoard를 활용할 수 있습니다.
+- 학생과 교사/교수 간의 더 나은 상호작용과 피드백을 촉진할 수 있습니다.
