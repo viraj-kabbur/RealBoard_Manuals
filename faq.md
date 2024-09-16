@@ -1,7 +1,7 @@
 ---
 description: >-
   This FAQ is designed to answer common questions and provide guidance for
-  students and teachers using RealBoard in conjunction with RealLives.
+  students and teachers/professors using RealBoard in conjunction with RealLives.
 ---
 
 # FAQ
@@ -45,7 +45,7 @@ After clicking **Add Card with Screenshot** or **Add Card without Screenshot**, 
 
 ### 4. What are Sections in RealBoard?
 
-**Sections** are categories within a board that organize your cards by topic or assignment. Teachers create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
+**Sections** are categories within a board that organize your cards by topic or assignment. Teachers/Professors create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
 
 For example, a section could be called **"Personal Reflection"** or **"About the Country"** and is where you’ll post your work related to that topic.
 
@@ -67,7 +67,7 @@ For example, if your gameplay involves discussing health issues in a country, yo
 
 ### 7. How do I know which board I’m posting to?
 
-When creating a card, you will see the **Board Name** at the top of the card creation window. This tells you which class or assignment the board is connected to. Your teacher sets up the board when they create an assignment in RealBoard.
+When creating a card, you will see the **Board Name** at the top of the card creation window. This tells you which class or assignment the board is connected to. Your teacher/professor sets up the board when they create an assignment in RealBoard.
 
 
 
@@ -85,7 +85,7 @@ If you’re having trouble uploading a screenshot or media file, check the follo
 * Check the file size; large files may not upload easily.
 * Verify your internet connection is stable.
 
-If issues persist, contact support or your teacher for help.
+If issues persist, contact support or your teacher/professor for help.
 
 
 
@@ -94,8 +94,8 @@ If issues persist, contact support or your teacher for help.
 Once you submit your card:
 
 1. Your card will be posted in the relevant section of the board.
-2. It will be visible to your teacher and classmates.
-3. Your teacher may provide feedback or comments on your card.
+2. It will be visible to your teacher/professor and classmates.
+3. Your teacher/professor may provide feedback or comments on your card.
 4. You can always view or edit your card by returning to the board.
 
 
@@ -113,7 +113,7 @@ If you select the **Go to RealBoard Home** option:
 
 You will receive notifications in RealBoard for:
 
-* **New Class or Board**: When your teacher creates a new class and you are added to it.
+* **New Class or Board**: When your teacher/professor creates a new class and you are added to it.
 * **Invitation to a Board**: When someone invites you to their personal board.
 
 
@@ -131,7 +131,7 @@ Yes, you can edit your card after posting:
 
 ### 14. What if I’m added to a new class in RealBoard?
 
-If your teacher adds you to a new class:
+If your teacher/professor adds you to a new class:
 
 * You will receive a **notification** letting you know that you’ve been added to a class.
 * A new **board** will automatically be created for the class in RealBoard.
@@ -145,7 +145,7 @@ If you cannot see your class or board in RealBoard:
 
 1. Check your notifications for updates on new classes or boards.
 2. Ensure that you are logged in with the correct student account.
-3. Contact your teacher to confirm that you’ve been added to the correct class.
+3. Contact your teacher/professor to confirm that you’ve been added to the correct class.
 
 If you still have trouble, you may need to contact RealBoard support.
 
