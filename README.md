@@ -1,8 +1,6 @@
 ---
 description: >-
-  RealBoard is a social network designed for schools that integrates with
-  RealLives. It allows teachers to assign tasks and students to share their
-  experiences through a collaborative platform.
+  RealBoard는 RealLives와 통합된 학교/대학교를 위한 소셜 네트워크입니다. 이를 통해 교사/교수는 과제를 할당하고, 학생들은 협력 플랫폼을 통해 자신의 경험을 공유할 수 있습니다.
 layout:
   title:
     visible: true
@@ -16,21 +14,20 @@ layout:
     visible: true
 ---
 
-# Overview
+# 개요
 
-## <mark style="background-color:blue;">**Reflect, Share, Grow**</mark>
+## <mark style="background-color:blue;">**반성, 공유, 성장**</mark>
 
-This tagline encapsulates the essence of what RealBoard offers to its users—students, teachers, and educational institutions. Let’s break down each element and how it ties into the core activities of the platform
+이 슬로건은 RealBoard가 학생, 교사/교수 및 교육 기관에 제공하는 핵심 가치를 잘 설명합니다. 각 요소가 플랫폼의 핵심 활동과 어떻게 연결되는지 살펴보겠습니다.
 
-### **Reflect**
+### **반성**
 
-* **Personal Reflection**: RealBoard encourages students to look back on their learning experiences and think critically about what they’ve learned. Through features like the "Personal Reflection" section, students can document their thoughts, insights, and feelings about the assignments they complete. This process not only reinforces learning but also helps in developing self-awareness and critical thinking skills.
+* **개인 반성**: RealBoard는 학생들이 자신의 학습 경험을 되돌아보고 배운 내용을 비판적으로 성찰하도록 장려합니다. "개인 반성" 섹션과 같은 기능을 통해 학생들은 완료한 과제에 대한 생각, 통찰, 감정을 기록할 수 있습니다. 이 과정은 학습을 강화할 뿐만 아니라 자기 인식과 비판적 사고 능력을 키우는 데 도움이 됩니다.
 
-### **Share**
+### **공유**
 
-* **Sharing Experiences**: RealBoard provides a platform where students can share their learning experiences with peers and teachers. By using Cards to upload screenshots, write posts, and share achievements within specific sections like "SDG Challenges," students are able to communicate their progress and insights in a structured yet creative way.
+* **경험 공유**: RealBoard는 학생들이 동료 및 교사/교수와 학습 경험을 공유할 수 있는 플랫폼을 제공합니다. 학생들은 스크린샷을 업로드하고, 게시물을 작성하며, "SDG 도전 과제"와 같은 특정 섹션 내에서 성과를 공유함으로써 자신의 진행 상황과 통찰을 구조적이면서도 창의적인 방식으로 전달할 수 있습니다.
 
-### **Grow**
+### **성장**
 
-* **Personal and Academic Growth**: The combination of reflection and sharing leads to growth—both personally and academically. RealBoard is designed to help students track their progress over time, set personal goals, and see how their efforts translate into growth.
-
+* **개인 및 학문적 성장**: 반성과 공유가 결합되어 개인적으로나 학문적으로 성장을 이끕니다. RealBoard는 학생들이 시간 경과에 따라 자신의 진전을 추적하고, 개인 목표를 설정하며, 자신의 노력이 어떻게 성장으로 이어지는지 확인할 수 있도록 설계되었습니다.
