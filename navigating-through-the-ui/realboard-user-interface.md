@@ -23,7 +23,7 @@ To the right of the board title, you will see a **Search Bar**. This allows you 
 
 ## 3. Notification Icon
 
-Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teachers, or new assignments.  A red dot will indicate when you have unread notifications.
+Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teacher/professors, or new assignments.  A red dot will indicate when you have unread notifications.
 
 ## 4. Language Change Icon
 
@@ -57,14 +57,14 @@ Next to the Home button is the **Filter Icon**, which provides two types of filt
 2. **Filter by User**:
    * Allows you to filter and view the cards and sections posted by specific users in the board.
 
-## 9. Students and teachers invite Button
+## 9. Students and teachers/professors invite Button
 
-To the right of the filters, there is the **Invite Button**, which allows you to invite other students and teachers within your school to join the board. When inviting them, you can assign them one of the following privileges:
+To the right of the filters, there is the **Invite Button**, which allows you to invite other students and teachers/professors within your school/university to join the board. When inviting them, you can assign them one of the following privileges:
 
-* **Read Only**: The student/teacher can view the board and cards but cannot make changes or post new content.
-* **Write Only**: The student/teachercan post cards and make changes but cannot access admin-level settings.
-* **Admin**: The student/teacher has full control over the board, including adding sections, managing users, and modifying settings.
+* **Read Only**: The student/teacher/professor can view the board and cards but cannot make changes or post new content.
+* **Write Only**: The student/teacher/professor can post cards and make changes but cannot access admin-level settings.
+* **Admin**: The student/teacher/professor has full control over the board, including adding sections, managing users, and modifying settings.
 
 ## 10. Add Section Icon
 
-Finally, on the far right, you’ll find the **Add Section Icon**. Clicking this allows you to create a new section within the board. Sections help organize the board by topic, making it easier for students to post relevant content and for teachers to manage assignments.
+Finally, on the far right, you’ll find the **Add Section Icon**. Clicking this allows you to create a new section within the board. Sections help organize the board by topic, making it easier for students to post relevant content and for teacher/professors to manage assignments.
