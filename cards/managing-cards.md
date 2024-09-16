@@ -1,10 +1,10 @@
-# Managing Cards
+# 카드 관리하기
 
-To manage cards:
+카드를 관리하려면:
 
-1. Navigate to the section with the card.
-2. Click on the card you want to manage.
-3. Use options to **Edit** or **Delete** the card.
-4. Update details or remove the card as needed.
+1. 카드가 있는 섹션으로 이동합니다.
+2. 관리하려는 카드를 클릭합니다.
+3. 카드를 **편집**하거나 **삭제**할 수 있는 옵션을 사용합니다.
+4. 필요에 따라 세부 정보를 업데이트하거나 카드를 삭제합니다.
 
-Managing cards ensures that all content is relevant and up-to-date.
+카드 관리는 모든 콘텐츠가 관련성 있고 최신 상태로 유지되도록 보장합니다.
