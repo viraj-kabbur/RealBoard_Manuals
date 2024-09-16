@@ -1,37 +1,37 @@
-# Creating Boards
+# 보드 생성하기
 
-In RealBoard, **Boards** are the primary organizational structure used to manage and display assignments, projects, and student work. Each board is designed to hold various **Sections** that correspond to different aspects of the assignment or project.
+RealBoard에서 **보드**는 과제, 프로젝트 및 학생 작업을 관리하고 표시하는 주요 조직 구조입니다. 각 보드는 과제나 프로젝트의 다양한 측면을 다루는 **섹션**을 포함하도록 설계되어 있습니다.
 
-## Purpose of Boards
+## 보드의 목적
 
-Boards serve several key purposes:
+보드는 다음과 같은 중요한 목적을 가지고 있습니다:
 
-1. **Organization:** Boards help organize multiple assignments or projects under one central location. Each board can focus on a particular subject, theme, or project.
-2. **Assignment Management:** Teachers can use boards to group related assignments, track progress, and provide feedback.
-3. **Student Interaction:** Students can use boards to submit their work, reflect on their learning experiences, and view their peers' contributions.
+1. **조직화:** 보드는 여러 과제나 프로젝트를 하나의 중앙 위치에서 조직하는 데 도움이 됩니다. 각 보드는 특정 주제, 테마 또는 프로젝트에 집중할 수 있습니다.
+2. **과제 관리:** 교사/교수는 보드를 사용하여 관련 과제를 그룹화하고, 진행 상황을 추적하며, 피드백을 제공합니다.
+3. **학생 상호작용:** 학생들은 보드를 사용하여 작업을 제출하고, 학습 경험을 반성하며, 동료의 기여를 확인할 수 있습니다.
 
-## Key Features of Boards
+## 보드의 주요 기능
 
-1. **Title and Description:** Each board has a **Title** and a **Description** to provide context and information about the assignments or projects it contains.
-2. **Sections:** Boards are divided into **Sections** to further categorize and organize content. Sections can be customized and added as needed.
-3. **Assignments:** Within each section, teachers can create and manage **Assignments**. Each assignment is linked to the relevant sections and boards.
-4. **Student Cards:** Students can create **Cards** within sections to showcase their work, reflections, and screenshots related to the assignments.
-5. **Types:** When teachers create a class through the RealLives Dashboard and include RealBoard in it, the boards will be added to the Assignment tab. Boards created by the teacher within the RealBoard application will appear in the Personal tab.
+1. **제목과 설명:** 각 보드에는 과제나 프로젝트에 대한 맥락과 정보를 제공하기 위한 **제목**과 **설명**이 있습니다.
+2. **섹션:** 보드는 콘텐츠를 더 잘 분류하고 조직하기 위해 **섹션**으로 나뉩니다. 섹션은 필요에 따라 맞춤 설정되고 추가될 수 있습니다.
+3. **과제:** 각 섹션 내에서 교사/교수는 **과제**를 생성하고 관리할 수 있습니다. 각 과제는 관련 섹션 및 보드와 연결됩니다.
+4. **학생 카드:** 학생들은 섹션 내에서 과제와 관련된 작업, 반성 및 스크린샷을 보여주는 **카드**를 생성할 수 있습니다.
+5. **유형:** 교사/교수가 RealLives 대시보드를 통해 수업을 생성하고 RealBoard를 포함시키면, 보드는 과제 탭에 추가됩니다. RealBoard 애플리케이션 내에서 교사가 생성한 보드는 개인 탭에 표시됩니다.
 
-## How to Create a Board
+## 보드 생성 방법
 
-1. <mark style="background-color:blue;">**Access Boards Section:**</mark> Navigate to the **Home** area in RealBoard.
+1. <mark style="background-color:blue;">**보드 섹션에 접근하기:**</mark> RealBoard의 **홈** 영역으로 이동합니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 175713.png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Create New Board:**</mark> Click on the **Add Board** button.
+2. <mark style="background-color:blue;">**새 보드 생성:**</mark> **Add Board** 버튼을 클릭합니다.
 
 <figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Board Details:**</mark> Provide a **Title**, and optionally, a **Description** for the board along with the Background color of your Board.
+3. <mark style="background-color:blue;">**보드 세부 정보 입력:**</mark> 보드에 대한 **제목**을 입력하고, 선택적으로 **설명**을 추가하며 보드의 배경색을 설정합니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 180043.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Save:**</mark> Click **Add Board** to finalize the creation of the board.
+4. <mark style="background-color:blue;">**저장:**</mark> **Add Board**를 클릭하여 보드 생성을 완료합니다.
 
-Boards are essential for managing assignments efficiently and providing a structured way for students and teachers to interact and collaborate.
+보드는 과제를 효율적으로 관리하고 학생과 교사/교수가 상호작용하고 협력할 수 있는 구조화된 방법을 제공합니다.
