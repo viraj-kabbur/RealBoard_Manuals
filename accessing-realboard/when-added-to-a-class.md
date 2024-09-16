@@ -2,7 +2,7 @@
 
 ## When Added to a Class
 
-If your teacher adds you to a class with an assignment:
+If your teacher/professor adds you to a class with an assignment:
 
 1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
 
@@ -42,7 +42,7 @@ Whether you choose to add a card with or without a screenshot, the following fie
 
 * **Board Name**: The name of the board associated with your class is displayed at the top of the card creation window. This helps you keep track of which assignment you are working on.
 * **Character Attributes**: The name, age, gender of your current character in RealLives will also be displayed. This connects the actions you take in RealLives with the card you are posting on RealBoard.
-* **Section Name**: You can choose which section of the board to post your card in. The section names are predetermined by your teacher (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
+* **Section Name**: You can choose which section of the board to post your card in. The section names are pre-determined by your teacher/professor (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
 * **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
 
 #### If you choose to add a screenshot, you get the option of cropping the screenshot to highlight only the important information in your card
@@ -70,7 +70,7 @@ Whether you choose to add a card with or without a screenshot, the following fie
 #### Posting the Card:
 
 * Once you have filled out all the required fields (title, description, media, and SDGs), click the **Add to RealBoard** button to post your card.
-* Your card will be visible to your teacher and classmates, and will be part of the board associated with your class.
+* Your card will be visible to your teacher/professor and classmates, and will be part of the board associated with your class.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
 
