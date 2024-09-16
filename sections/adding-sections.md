@@ -16,7 +16,7 @@ Sections are designed to:
 2. **Examples of Sections:**
    * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
    * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
-   * **Custom Sections:** Teachers can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
+   * **Custom Sections:** Teacher/Professor can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
 
 ## How to Add a Section
 
@@ -43,4 +43,4 @@ Sections are designed to:
 * **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
 * **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
 
-Sections help in organizing and structuring the content within a board, making it easier for teachers and students to manage and interact with their assignments effectively.
+Sections help in organizing and structuring the content within a board, making it easier for teachers/professors and students to manage and interact with their assignments effectively.
