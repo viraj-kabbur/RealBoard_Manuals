@@ -1,34 +1,34 @@
-# Table of contents
+# 목차
 
-## Introduction
+## 소개
 
-* [Overview](README.md)
-* [Getting Started](introduction/getting-started.md)
-* [Home](introduction/home.md)
+* [개요](README.md)
+* [시작하기](introduction/getting-started.md)
+* [홈](introduction/home.md)
 
-## Navigating through the UI
+## UI 탐색
 
-* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
+* [RealBoard 사용자 인터페이스](navigating-through-the-ui/realboard-user-interface.md)
 
-## Boards
+## 보드
 
-* [Creating Boards](boards/creating-boards.md)
-* [Managing Boards](boards/managing-boards.md)
+* [보드 생성하기](boards/creating-boards.md)
+* [보드 관리하기](boards/managing-boards.md)
 
-## Sections
+## 섹션
 
-* [Adding Sections](sections/adding-sections.md)
-* [Customizing Sections](sections/customizing-sections.md)
+* [섹션 추가하기](sections/adding-sections.md)
+* [섹션 맞춤 설정하기](sections/customizing-sections.md)
 
-## Cards
+## 카드
 
-* [Creating Cards](cards/creating-cards.md)
-* [Managing Cards](cards/managing-cards.md)
+* [카드 생성하기](cards/creating-cards.md)
+* [카드 관리하기](cards/managing-cards.md)
 
-## Accessing RealBoard
+## RealBoard 접근하기
 
-* [Through the RealLives Dashboard](accessing-realboard/through-the-reallives-dashboard.md)
-* [When Added to a Class](accessing-realboard/when-added-to-a-class.md)
+* [RealLives 대시보드를 통해](accessing-realboard/through-the-reallives-dashboard.md)
+* [수업에 추가되었을 때](accessing-realboard/when-added-to-a-class.md)
 
 ***
 
