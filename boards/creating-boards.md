@@ -7,16 +7,16 @@ In RealBoard, **Boards** are the primary organizational structure used to manage
 Boards serve several key purposes:
 
 1. **Organization:** Boards help organize multiple assignments or projects under one central location. Each board can focus on a particular subject, theme, or project.
-2. **Assignment Management:** Teachers can use boards to group related assignments, track progress, and provide feedback.
+2. **Assignment Management:** Teachers/Professors can use boards to group related assignments, track progress, and provide feedback.
 3. **Student Interaction:** Students can use boards to submit their work, reflect on their learning experiences, and view their peers' contributions.
 
 ## Key Features of Boards
 
 1. **Title and Description:** Each board has a **Title** and a **Description** to provide context and information about the assignments or projects it contains.
 2. **Sections:** Boards are divided into **Sections** to further categorize and organize content. Sections can be customized and added as needed.
-3. **Assignments:** Within each section, teachers can create and manage **Assignments**. Each assignment is linked to the relevant sections and boards.
+3. **Assignments:** Within each section, teachers/professors can create and manage **Assignments**. Each assignment is linked to the relevant sections and boards.
 4. **Student Cards:** Students can create **Cards** within sections to showcase their work, reflections, and screenshots related to the assignments.
-5. **Types:** When teachers create a class through the RealLives Dashboard and include RealBoard in it, the boards will be added to the Assignment tab. Boards created by the teacher within the RealBoard application will appear in the Personal tab. As a student you can only create a board in the Personal tab.
+5. **Types:** When teachers/professors create a class through the RealLives Dashboard and include RealBoard in it, the boards will be added to the Assignment tab. Boards created by the teachers/professors within the RealBoard application will appear in the Personal tab. As a student you can only create a board in the Personal tab.
 
 ## How to Create a Board
 
@@ -34,4 +34,4 @@ Boards serve several key purposes:
 
 4. <mark style="background-color:blue;">**Save:**</mark> Click **Add Board** to finalize the creation of the board.
 
-Boards are essential for managing assignments efficiently and providing a structured way for students and teachers to interact and collaborate.
+Boards are essential for managing assignments efficiently and providing a structured way for students and teachers/professors to interact and collaborate.
