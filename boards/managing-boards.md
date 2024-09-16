@@ -1,8 +1,8 @@
-# Managing Boards
+# 보드 관리하기
 
-To manage existing boards:
+기존 보드를 관리하려면:
 
-1. Navigate to the **Boards** section.
-2. Click on the board you want to manage.
-3. Use the options to **Edit** the board as needed.
-4. Adjust settings or add new sections through the board management interface.
+1. **보드** 섹션으로 이동합니다.
+2. 관리할 보드를 클릭합니다.
+3. 필요한 경우 보드를 **편집**할 수 있는 옵션을 사용합니다.
+4. 보드 관리 인터페이스를 통해 설정을 조정하거나 새 섹션을 추가할 수 있습니다.
