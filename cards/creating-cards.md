@@ -1,50 +1,46 @@
-# Creating Cards
+# 카드 생성하기
 
-In RealBoard, **Cards** are individual tiles within a Section where students can document and share their work, reflections, and other relevant content. Each card represents a discrete piece of work or an individual entry related to the assignments and activities in the section.
+RealBoard에서 **카드**는 섹션 내에서 학생들이 작업, 반성 및 관련된 콘텐츠를 기록하고 공유할 수 있는 개별 타일입니다. 각 카드는 과제나 섹션 내 활동과 관련된 개별 작업 또는 항목을 나타냅니다.
 
-## Purpose of Cards
+## 카드의 목적
 
-Cards serve several important functions:
+카드는 여러 중요한 기능을 제공합니다:
 
-1. **Showcase Work:** Allow students to present their completed assignments, projects, or reflections in a structured and accessible format.
-2. **Encourage Reflection:** Provide a space for students to share their thoughts, insights, and experiences related to their tasks or learning process.
-3. **Facilitate Interaction:** Enable teachers and peers to view, comment on, and provide feedback on the student’s work.&#x20;
+1. **작업 전시:** 학생들이 완료한 과제, 프로젝트 또는 반성을 구조화된 형식으로 제시할 수 있게 합니다.
+2. **반성 장려:** 학생들이 과제나 학습 과정과 관련된 생각, 통찰 및 경험을 공유할 수 있는 공간을 제공합니다.
+3. **상호작용 촉진:** 교사/교수 및 동료들이 학생의 작업을 보고, 댓글을 달고, 피드백을 제공할 수 있습니다.&#x20;
 
-## Key Features of Cards
+## 카드의 주요 기능
 
-1. **Title and Description:** Each card has a **Title** and **Description**. The title briefly identifies the content of the card, while the description provides more detailed information.
-2. **Attachments:** Cards can include various relevant attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
-3. **Comments and Feedback:** Cards may have a section for comments where teachers and peers can provide feedback or ask questions.
-4. **Stars**: Teachers can rate a card out of 5 stars based on the creativity of the card.
-5. **Reactions**: Students and Teachers can react on cards with the help of emojis.
+1. **제목과 설명:** 각 카드는 **제목**과 **설명**이 있습니다. 제목은 카드의 내용을 간략하게 설명하며, 설명은 더 자세한 정보를 제공합니다.
+2. **첨부 파일:** 카드에는 관련된 **스크린샷**, **파일** 또는 **링크**와 같은 첨부 파일을 포함할 수 있습니다.
+3. **댓글과 피드백:** 카드에는 교사/교수와 동료들이 피드백을 제공하거나 질문을 할 수 있는 댓글 섹션이 있습니다.
+4. **별점:** 교사/교수는 카드의 창의성에 따라 5점 만점으로 평가할 수 있습니다.
+5. **반응:** 학생과 교사/교수는 이모지를 사용하여 카드에 반응할 수 있습니다.
 
-In RealBoard, we’ve included a set of emojis for reactions to help users quickly express their thoughts and feelings about a post. These emojis— 👍 (Like), ❤️ (Love), 😂 (Funny), 😲 (Surprised), 😢 (Sad), and 😡 (Angry)— offer a range of emotional responses, allowing for a more interactive and engaging experience. By using reactions, students and teachers can easily provide feedback or acknowledge a post without needing to leave a comment, making interaction faster and more fun.
+RealBoard에서는 게시물에 대한 감정을 빠르게 표현할 수 있도록 반응용 이모지를 포함했습니다. 이러한 이모지— 👍 (좋아요), ❤️ (사랑해요), 😂 (웃겨요), 😲 (놀라워요), 😢 (슬퍼요), 😡 (화나요)—는 감정적인 반응을 제공하며, 더 상호작용적이고 재미있는 경험을 제공합니다. 반응을 통해 학생들과 교사/교수는 댓글을 남기지 않고도 게시물에 피드백을 제공하거나 인정을 쉽게 할 수 있어 상호작용이 더 빠르고 즐거워집니다.
 
-## How to Create a Card
+## 카드 생성 방법
 
-1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card. Click on the **Add Card** button.
+1. <mark style="background-color:blue;">**섹션 열기:**</mark> 카드를 추가하고 싶은 섹션으로 이동한 후 **Add Card** 버튼을 클릭합니다.
 
 <figure><img src="../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Create New Card:**</mark> Click on the **Add Card** button.
+2. <mark style="background-color:blue;">**새 카드 생성:**</mark> **Add Card** 버튼을 클릭합니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 180911.png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Card Details:**</mark>
+3. <mark style="background-color:blue;">**카드 세부 정보 입력:**</mark>
 
-* **Name:** Provide a concise title for the card.
-* **Description:** Add a detailed description of the content or work presented in the card.
-* **Attachments:** Upload any relevant files, audio, screenshots, videos or links.
+* **이름:** 카드의 간결한 제목을 입력하세요.
+* **설명:** 카드에 제시된 내용 또는 작업에 대한 자세한 설명을 추가하세요.
+* **첨부 파일:** 관련된 파일, 오디오, 스크린샷, 비디오 또는 링크를 업로드하세요.
 
-4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to create the card.
+4. <mark style="background-color:blue;">**게시:**</mark> **Publish**를 클릭하여 카드를 생성하세요.
 
+## 카드 사용 예시
 
+* **과제 제출 카드:** 학생이 완료한 과제를 “기후 변화에 대한 연구 논문”이라는 제목으로 카드에 제출하고, 내용을 요약한 설명과 함께 완료한 논문을 첨부합니다.
+* **개인 반성 카드:** 학생이 그룹 프로젝트에 대해 “그룹 역학에 대한 반성”이라는 제목으로 카드를 작성하고, 경험을 설명한 설명과 프로젝트의 최종 발표 스크린샷을 첨부합니다.
 
-## Examples of Card Usage
-
-* **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
-* **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
-
-
-
-Cards provide a flexible and organized way for students to present their work and for teachers to review and provide feedback. They are an essential component of the RealBoard platform, helping to manage and display student contributions effectively.
+카드는 학생들이 작업을 제시하고 교사/교수가 검토하고 피드백을 제공할 수 있는 유연하고 조직적인 방법을 제공합니다. 이는 RealBoard 플랫폼의 필수적인 구성 요소로, 학생들의 기여를 효과적으로 관리하고 표시하는 데 도움을 줍니다.
