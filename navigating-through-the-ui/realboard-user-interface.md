@@ -25,7 +25,7 @@ To the right of the board title, you will see a **Search Bar**. This allows you 
 
 ## 3. Notification Icon
 
-Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teachers, or new assignments. A red dot will indicate when you have unread notifications.
+Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teachers/professors, or new assignments. A red dot will indicate when you have unread notifications.
 
 ## 4. Language Change Icon
 
