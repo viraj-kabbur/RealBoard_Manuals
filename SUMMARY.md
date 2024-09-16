@@ -1,36 +1,36 @@
-# Table of contents
+# 목차
 
-## Introduction
+## 소개
 
-* [Overview](README.md)
-* [Getting Started](introduction/getting-started.md)
-* [Home](introduction/home.md)
+* [개요](README.md)
+* [시작하기](introduction/getting-started.md)
+* [홈](introduction/home.md)
 
-## Navigating through the UI
+## UI 탐색
 
-* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
-* [Inviting Students and Teachers to the Board](navigating-through-the-ui/inviting-students-and-teachers-to-the-board.md)
+* [RealBoard 사용자 인터페이스](navigating-through-the-ui/realboard-user-interface.md)
+* [학생 및 교사 초대하기](navigating-through-the-ui/inviting-students-and-teachers-to-the-board.md)
 
-## Boards
+## 보드
 
-* [Creating Boards](boards/creating-boards.md)
-* [Managing Boards](boards/managing-boards.md)
+* [보드 생성하기](boards/creating-boards.md)
+* [보드 관리하기](boards/managing-boards.md)
 
-## Sections
+## 섹션
 
-* [Adding Sections](sections/adding-sections.md)
-* [Customizing Sections](sections/customizing-sections.md)
+* [섹션 추가하기](sections/adding-sections.md)
+* [섹션 맞춤 설정하기](sections/customizing-sections.md)
 
-## Cards
+## 카드
 
-* [Creating Cards](cards/creating-cards.md)
-* [Managing Cards](cards/managing-cards.md)
+* [카드 생성하기](cards/creating-cards.md)
+* [카드 관리하기](cards/managing-cards.md)
 
-## RealBoard for Teachers
+## 교사용 RealBoard
 
-* [RealBoard and RealLives Integration](realboard-for-teachers/untitled.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
+* [RealBoard와 RealLives 통합](realboard-for-teachers/untitled.md)
+* [글로벌 시민 과제 + RealBoard 클래스 만들기](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment.md)
+* [글로벌 시민 과제 + 수업 계획 + RealBoard 클래스 만들기](realboard-for-teachers/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
 
 ***
 
