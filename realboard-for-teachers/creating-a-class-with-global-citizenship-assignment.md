@@ -23,7 +23,7 @@ If you are not familiar with creating classes on RealLives you can refer to this
 
 ## Why We Use These Six Default Sections
 
-In RealBoard, we have included six default sections to help both teachers/professorss and students organize content effectively and promote a more structured approach to assignments. Each section is designed to target specific aspects of a student’s learning experience, encouraging deep reflection, analysis, and understanding.
+In RealBoard, we have included six default sections to help both teachers/professors and students organize content effectively and promote a more structured approach to assignments. Each section is designed to target specific aspects of a student’s learning experience, encouraging deep reflection, analysis, and understanding.
 
 While these sections are provided by default, **you can edit them** here during the class creation process or later in RealBoard. Additionally, once inside RealBoard, **you have the flexibility to add new sections** that better fit your specific class or assignment needs.
 
