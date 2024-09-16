@@ -1,10 +1,10 @@
-# Customizing Sections
+# 섹션 맞춤 설정하기
 
-You can customize each section to fit your needs:
+각 섹션을 필요에 맞게 맞춤 설정할 수 있습니다:
 
-1. Go to the board containing the section.
-2. Click on the section you want to customize.
-3. Use the options to **Edit** the section as needed.
-4. Save your changes.
+1. 섹션이 포함된 보드로 이동하세요.
+2. 맞춤 설정하려는 섹션을 클릭하세요.
+3. 필요한 경우 섹션을 **편집**할 수 있는 옵션을 사용하세요.
+4. 변경 사항을 저장하세요.
 
-Customizing sections helps in organizing content and assignments effectively.
+섹션을 맞춤 설정하면 콘텐츠와 과제를 효과적으로 조직할 수 있습니다.
