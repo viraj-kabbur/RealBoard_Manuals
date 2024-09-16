@@ -1,61 +1,60 @@
 ---
-description: Exploring all the features RealBoard has to offer
+description: RealBoard에서 제공하는 모든 기능 탐색
 ---
 
-# RealBoard User Interface
+# RealBoard 사용자 인터페이스
 
 <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
-The RealBoard interface is designed to provide an intuitive and organized user experience. Below is a guide to understanding the various elements of the UI, starting from the left side and moving across the screen.
+RealBoard 인터페이스는 직관적이고 체계적인 사용자 경험을 제공하도록 설계되었습니다. 다음은 화면 왼쪽에서 오른쪽으로 이동하면서 UI의 다양한 요소를 이해하는 가이드입니다.
 
-## Numbers are assigned with information below -&#x20;
+## 아래 번호와 정보가 매칭됩니다 -&#x20;
 
-## 1. Board Information
+## 1. 보드 정보
 
-At the top left of the screen, you will find key information about the board you are viewing:
+화면 왼쪽 상단에서 현재 보고 있는 보드에 대한 주요 정보를 찾을 수 있습니다:
 
-* **Created By**: Displays the name of the person who created the board.
-* **Created On**: Shows the date when the board was created.
-* **Board Title**: In bold, the title of the board is displayed (e.g., "Born in a country where the marriage age is the lowest").
-* **Total Sections**: In brackets next to the board title, you can see the total number of sections within the board.
+* **작성자**: 보드를 만든 사람의 이름이 표시됩니다.
+* **작성일**: 보드가 생성된 날짜가 표시됩니다.
+* **보드 제목**: 굵은 글씨로 보드의 제목이 표시됩니다 (예: "결혼 연령이 가장 낮은 나라에서 태어남").
+* **총 섹션 수**: 보드 제목 옆 괄호 안에 보드 내의 총 섹션 수가 표시됩니다.
 
-## 2. Search Bar
+## 2. 검색창
 
-To the right of the board title, you will see a **Search Bar**. This allows you to search for specific text, card names, keywords, or other content within the board. It helps you quickly locate information without manually browsing through the sections.
+보드 제목 오른쪽에는 **검색창**이 있습니다. 이를 통해 보드 내에서 특정 텍스트, 카드 이름, 키워드 또는 기타 콘텐츠를 검색할 수 있습니다. 섹션을 일일이 살펴보지 않고도 정보를 빠르게 찾을 수 있습니다.
 
-## 3. Notification Icon
+## 3. 알림 아이콘
 
-Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teachers, or new assignments. A red dot will indicate when you have unread notifications.
+검색창 옆에는 **알림 아이콘**이 있습니다. 이 아이콘은 게시물에 대한 댓글, 교사/교수로부터의 업데이트, 새로운 과제 등 새로운 알림이 있을 때 경고합니다. 읽지 않은 알림이 있을 경우 빨간 점이 표시됩니다.
 
-## 4. Language Change Icon
+## 4. 언어 변경 아이콘
 
-The **Language Change Icon** allows you to switch the interface language. Currently, RealBoard supports three languages:
+**언어 변경 아이콘**을 사용하면 인터페이스 언어를 변경할 수 있습니다. 현재 RealBoard는 세 가지 언어를 지원합니다:
 
-* **English**
-* **Swedish**
-* **Korean**
+* **영어**
+* **스웨덴어**
+* **한국어**
 
-You can change the language at any time by clicking the icon and selecting your preferred language.
+언제든지 아이콘을 클릭하고 선호하는 언어를 선택하여 언어를 변경할 수 있습니다.
 
-## 5. Minimize/Maximize Icon
+## 5. 최소화/최대화 아이콘
 
-To the right of the language icon, there is the **Minimize/Maximize Icon**. This allows you to toggle the size of the interface window, letting you work in a more compact view or expand it for better visibility of all sections and cards.
+언어 아이콘 오른쪽에는 **최소화/최대화 아이콘**이 있습니다. 이 아이콘을 사용하여 인터페이스 창 크기를 조절할 수 있으며, 더 작은 보기로 작업하거나 모든 섹션과 카드를 더 잘 볼 수 있도록 확장할 수 있습니다.
 
-## 6. User Profile
+## 6. 사용자 프로필
 
-On the far right of the top bar, there is a **User Profile Circle**. This displays your profile picture and username. Clicking on this will give you access to your account settings and profile options.
+상단 바의 오른쪽 끝에는 **사용자 프로필 원**이 있습니다. 여기에는 프로필 사진과 사용자 이름이 표시됩니다. 이를 클릭하면 계정 설정 및 프로필 옵션에 접근할 수 있습니다.
 
-## 7. Home Button
+## 7. 홈 버튼
 
-Below the top bar, on the left, you will find the **Home Button**. Clicking this will take you to the main RealBoard homepage, where you can view and access all of your boards.
+상단 바 아래 왼쪽에는 **홈 버튼**이 있습니다. 이를 클릭하면 RealBoard 메인 페이지로 이동하여 모든 보드를 보고 접근할 수 있습니다.
 
-## 8. Filter Options
+## 8. 필터 옵션
 
-Next to the Home button is the **Filter Icon**, which provides two types of filters to help you sort and find relevant content on the board:
+홈 버튼 옆에는 **필터 아이콘**이 있으며, 보드에서 관련 콘텐츠를 정렬하고 찾는 데 도움이 되는 두 가지 유형의 필터를 제공합니다:
 
-1. **Common Filter**:
-   * **Most Commented Card**: Sorts the cards in the board by the number of comments.
-   * **Most Reacted Card**: Sorts the cards based on the number of reactions.
-2. **Filter by User**:
-   * Allows you to filter and view the cards and sections posted by specific users in the board.
-
+1. **일반 필터**:
+   * **댓글이 가장 많은 카드**: 보드에서 댓글 수에 따라 카드를 정렬합니다.
+   * **반응이 가장 많은 카드**: 반응 수에 따라 카드를 정렬합니다.
+2. **사용자별 필터**:
+   * 특정 사용자가 게시한 카드 및 섹션을 필터링하고 볼 수 있습니다.
