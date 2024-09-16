@@ -1,7 +1,7 @@
 ---
 description: >-
   RealBoard is a social network designed for schools that integrates with
-  RealLives. It allows teachers to assign tasks and students to share their
+  RealLives. It allows teachers/professors to assign tasks and students to share their
   experiences through a collaborative platform.
 layout:
   title:
@@ -20,7 +20,7 @@ layout:
 
 ## <mark style="background-color:blue;">**Reflect, Share, Grow**</mark>
 
-This tagline encapsulates the essence of what RealBoard offers to its users—students, teachers, and educational institutions. Let’s break down each element and how it ties into the core activities of the platform
+This tagline encapsulates the essence of what RealBoard offers to students, teachers/professors, and educational institutions. Let’s break down each element and how it ties into the core activities of the platform
 
 ### **Reflect**
 
@@ -28,7 +28,7 @@ This tagline encapsulates the essence of what RealBoard offers to its users—st
 
 ### **Share**
 
-* **Sharing Experiences**: RealBoard provides a platform where students can share their learning experiences with peers and teachers. By using Cards to upload screenshots, write posts, and share achievements within specific sections like "SDG Challenges," students are able to communicate their progress and insights in a structured yet creative way.
+* **Sharing Experiences**: RealBoard provides a platform where students can share their learning experiences with peers and teachers/professors. By using Cards to upload screenshots, write posts, and share achievements within specific sections like "SDG Challenges," students are able to communicate their progress and insights in a structured yet creative way.
 
 ### **Grow**
 
