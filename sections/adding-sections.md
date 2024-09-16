@@ -1,46 +1,46 @@
-# Adding Sections
+# 섹션 추가하기
 
-In RealBoard, **Sections** are components within a Board that help categorize and organize content related to assignments, projects, or topics. Each board can contain multiple sections, each serving a specific purpose or focus area.
+RealBoard에서 **섹션**은 보드 내에서 과제, 프로젝트 또는 주제와 관련된 콘텐츠를 분류하고 조직하는 구성 요소입니다. 각 보드는 특정 목적이나 초점 영역을 제공하는 여러 섹션을 포함할 수 있습니다.
 
-## Purpose of Sections
+## 섹션의 목적
 
-Sections are designed to:
+섹션은 다음과 같은 목적으로 설계되었습니다:
 
-1. **Categorize Content:** Organize different types of content or aspects of an assignment into distinct areas for better clarity and management.
-2. **Enhance Organization:** Allow for a structured layout within a board, making it easier for students to find and work on specific tasks or assignments.
-3. **Facilitate Specific Goals:** Target different types of activities or reflections, such as project milestones, personal reflections, or SDG challenges.
+1. **콘텐츠 분류:** 과제의 다양한 측면이나 내용을 명확하게 관리하기 위해 구별된 영역으로 구성합니다.
+2. **조직력 향상:** 보드 내에서 구조화된 레이아웃을 제공하여 학생들이 특정 작업이나 과제를 더 쉽게 찾고 작업할 수 있도록 합니다.
+3. **특정 목표 촉진:** 프로젝트 마일스톤, 개인 반성 또는 SDG 도전 과제와 같은 다양한 활동이나 반성을 목표로 합니다.
 
-## Key Features of Sections
+## 섹션의 주요 기능
 
-1. **Title:** Each section has a **Title**. The title describes the focus of the section.
-2. **Examples of Sections:**
-   * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
-   * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
-   * **Custom Sections:** Teachers can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
+1. **제목:** 각 섹션에는 **제목**이 있습니다. 제목은 섹션의 초점을 설명합니다.
+2. **섹션 예시:**
+   * **SDG 도전 과제:** 지속 가능한 개발 목표(SDGs)에 중점을 둔 섹션으로, 학생들이 관련 도전 과제를 수행하고 진행 상황을 기록할 수 있습니다.
+   * **개인 반성:** 학생들이 학습 경험에 대해 반성하고, 통찰을 공유하며, 개인 성장을 논의하는 섹션입니다.
+   * **맞춤형 섹션:** 교사/교수는 그룹 프로젝트, 연구 주제 또는 기술 개발과 같은 특정 요구나 과제에 맞춘 맞춤형 섹션을 생성할 수 있습니다.
 
-## How to Add a Section
+## 섹션 추가 방법
 
-1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section. Click on View Board.
+1. <mark style="background-color:blue;">**보드 열기:**</mark> 섹션을 추가하려는 보드로 이동하여 View Board를 클릭하세요.
 
 <figure><img src="../.gitbook/assets/Untitled design (8).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
+2. <mark style="background-color:blue;">**섹션 추가:**</mark> **Add Section** 버튼을 클릭하세요.
 
 <figure><img src="../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
+3. <mark style="background-color:blue;">**섹션 세부 정보 입력:**</mark>
 
-* **Name:** Provide a descriptive title for the section.
-* **Description:** Provide a short description about your section so students will know what they have to post in the said section.
-* Media: Attach images, videos, audio, documents, images/youtube videos from the internet
+* **이름:** 섹션의 설명적인 제목을 입력하세요.
+* **설명:** 학생들이 해당 섹션에 무엇을 게시해야 하는지 알 수 있도록 짧은 설명을 입력하세요.
+* **미디어:** 이미지, 비디오, 오디오, 문서 또는 인터넷에서 가져온 이미지/유튜브 비디오를 첨부하세요.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 171733.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to include the section in the board.
+4. <mark style="background-color:blue;">**게시:**</mark> **Publish** 버튼을 클릭하여 섹션을 보드에 포함시키세요.
 
-## Examples of Section Usage
+## 섹션 사용 예시
 
-* **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
-* **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
+* **SDG 도전 과제 섹션:** 이 섹션을 사용하여 글로벌 지속 가능성 목표와 관련된 과제를 그룹화하세요. 학생들은 작업을 제출하고, 진행 상황을 추적하며, 노력에 대한 피드백을 받을 수 있습니다.
+* **개인 반성 섹션:** 학생들이 학습 경험에 대해 반성하고, 직면한 도전 과제에 대해 논의하며, 프로젝트 전반에 걸쳐 얻은 통찰을 공유할 수 있습니다.
 
-Sections help in organizing and structuring the content within a board, making it easier for teachers and students to manage and interact with their assignments effectively.
+섹션은 보드 내 콘텐츠를 조직하고 구조화하는 데 도움을 주어 교사/교수와 학생들이 과제를 효과적으로 관리하고 상호작용할 수 있도록 합니다.
