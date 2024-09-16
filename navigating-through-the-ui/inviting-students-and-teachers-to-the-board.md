@@ -1,24 +1,24 @@
-# Inviting Students and Teachers to the Board
+# 학생 및 교사/교수 보드 초대하기
 
-To the right of the filters, there is the **User Invite Button**, which allows you to invite other students and teachers within your school to join the board. This feature is useful for teachers who want to bring additional students or collaborators into the board, or for students who want to collaborate with their classmates.
+필터 오른쪽에는 **사용자 초대 버튼**이 있습니다. 이를 통해 학교/대학교 내의 다른 학생 및 교사/교수를 보드에 초대할 수 있습니다. 이 기능은 교사/교수가 추가 학생 또는 협력자를 보드로 초대하고자 할 때나 학생들이 동료들과 협력하고자 할 때 유용합니다.
 
-## Steps to Invite a User
+## 사용자 초대 단계
 
-1. **Click the Invite Button**: Locate and click on the **User Invite Button** (next to the filter icon).
-2. **Enter User Details**: In the invitation window, enter the name or email address of the user you want to invite.
-3. **Assign Privileges**: Choose one of the following privilege levels for the invited user:
-   * **Admin**: The student/teacher has full control over the board, including managing sections, adding users, and changing settings.
-   * **Write Only**: The student/teacher can add and modify cards but cannot manage sections or users.
-   * **Read Only**: The student/teacher  can view the board and its contents but cannot post cards or make changes.
-4. **Send Invitation**: Once you have assigned the privileges, click **Send Invitation**.
+1. **초대 버튼 클릭**: **사용자 초대 버튼**(필터 아이콘 옆에 위치)을 찾고 클릭합니다.
+2. **사용자 정보 입력**: 초대 창에서 초대하려는 사용자의 이름 또는 이메일 주소를 입력합니다.
+3. **권한 할당**: 초대받은 사용자에게 다음 권한 수준 중 하나를 선택합니다:
+   * **관리자(Admin)**: 학생/교수/교사가 보드에 대한 전체 제어 권한을 가지며, 섹션 관리, 사용자 추가 및 설정 변경이 가능합니다.
+   * **작성 권한만(Write Only)**: 학생/교수/교사는 카드를 추가하고 수정할 수 있지만 섹션 또는 사용자를 관리할 수 없습니다.
+   * **읽기 전용(Read Only)**: 학생/교수/교사는 보드 및 내용을 볼 수 있지만 카드를 게시하거나 변경할 수 없습니다.
+4. **초대 전송**: 권한을 할당한 후 **초대 전송**을 클릭합니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 105624.png" alt=""><figcaption></figcaption></figure>
 
-## What Happens Next?
+## 이후의 절차
 
-After sending the invitation, the invited student/teacher will receive a **notification** in RealBoard. In the notification, they will see the details of the board they are being invited to, along with the privilege level assigned to them. The student/teacher can then either:
+초대를 전송한 후 초대받은 학생/교사/교수는 RealBoard에서 **알림**을 받게 됩니다. 알림에는 초대된 보드의 세부 사항과 할당된 권한 수준이 표시됩니다. 학생/교수/교사는 다음 중 하나를 선택할 수 있습니다:
 
-* **Accept the Invitation**: Once accepted, the student/teacher is granted access to the board with the specified privileges.
-* **Decline the Invitation**: If they choose to decline, they will not be added to the board, and the invitation will be removed.
+* **초대 수락**: 수락하면 학생/교수/교사는 지정된 권한으로 보드에 접근할 수 있습니다.
+* **초대 거절**: 거절할 경우 보드에 추가되지 않으며 초대가 삭제됩니다.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 105745 (1).png" alt=""><figcaption></figcaption></figure>
