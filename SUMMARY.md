@@ -26,10 +26,6 @@
 * [Creating Cards](cards/creating-cards.md)
 * [Managing Cards](cards/managing-cards.md)
 
-## Realboard for Teachers
-
-* [Page 1](realboard-for-teachers/page-1.md)
-
 ***
 
 * [FAQ](faq.md)
