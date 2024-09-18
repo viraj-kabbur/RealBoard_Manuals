@@ -4,7 +4,7 @@
 
 RealLives에서 수업을 생성하는 것에 익숙하지 않다면, 이 매뉴얼을 참조하세요. 이 매뉴얼은 그 과정을 매우 자세히 설명하고 있습니다.
 
-{% embed url="https://usermanual.reallivesworld.com/v/english-user-manual/school-admin/class-with-global-citizenship-assignment" %}
+{% embed url="https://usermanual.reallivesworld.com/v/teacher-ko/undefined/undefined-5" %}
 
 #### 글로벌 시민 과제를 포함한 수업을 생성하려면:
 
@@ -43,7 +43,7 @@ RealBoard에서는 교사/교수와 학생 모두가 과제를 체계적으로 �
 
 #### 4. **SDG 도전**
 
-이 섹션은 학생들의 경험을 **지속 가능한 개발 목표(SDGs)**와 연결합니다. 이를 통해 학생들은 빈곤, 건강, 교육, 기후 행동과 같은 글로벌 문제들이 캐릭터의 삶과 공동체에 어떻게 반영되는지 논의할 수 있습니다. 이 섹션은 SDGs 달성을 위한 지역 및 글로벌 행동의 중요성을 강조합니다.
+이 섹션은 학생들의 경험을 \*\*지속 가능한 개발 목표(SDGs)\*\*와 연결합니다. 이를 통해 학생들은 빈곤, 건강, 교육, 기후 행동과 같은 글로벌 문제들이 캐릭터의 삶과 공동체에 어떻게 반영되는지 논의할 수 있습니다. 이 섹션은 SDGs 달성을 위한 지역 및 글로벌 행동의 중요성을 강조합니다.
 
 #### 5. **공감 가치**
 
