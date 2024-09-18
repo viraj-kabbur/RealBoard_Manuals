@@ -28,8 +28,7 @@
 
 ## Realboard Testing
 
-* [Page 1](realboard-testing/page-1.md)
-
-***
-
-* [FAQ](faq.md)
+* [RealBoard and RealLives Integration Manual](realboard-testing/realboard-and-reallives-integration-manual.md)
+* [Class with Global Citizenship Assignment + RealBoard](realboard-testing/class-with-global-citizenship-assignment-+-realboard.md)
+* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-testing/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
+* [FAQ](realboard-testing/faq.md)
