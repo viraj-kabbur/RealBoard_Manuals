@@ -26,6 +26,12 @@
 * [카드 생성하기](cards/creating-cards.md)
 * [카드 관리하기](cards/managing-cards.md)
 
+## 교사/교수를 위한 Realboard
+
+* [RealBoard와 RealLives 통합 매뉴얼](realboard/realboard-reallives.md)
+* [글로벌 시민 과제 + RealBoard가 포함된 수업](realboard/+-realboard.md)
+* [글로벌 시민 과제 + 수업 계획 + RealBoard로 수업 생성하기](realboard/+-+-realboard.md)
+
 ***
 
 * [FAQ](faq.md)
