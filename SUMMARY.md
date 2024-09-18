@@ -9,7 +9,7 @@
 ## Navigating through the UI
 
 * [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
-* [Inviting Students and teacher/professor to the Board](navigating-through-the-ui/inviting-students-and-teacher/professor-to-the-board.md)
+* [Inviting Students and teacher/professor to the Board](navigating-through-the-ui/inviting-students-and-teacher-professor-to-the-board.md)
 
 ## Boards
 
@@ -28,9 +28,9 @@
 
 ## RealBoard for teacher/professor
 
-* [RealBoard and RealLives Integration](realboard-for-teacher/professor/untitled.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teacher/professor/creating-a-class-with-global-citizenship-assignment.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teacher/professor/creating-a-class-with-global-citizenship-assignment-+-lesson-plan.md)
+* [RealBoard and RealLives Integration](realboard-for-teacher-professor/realboard-and-reallives-integration.md)
+* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teacher-professor/class-with-global-citizenship-assignment-+-realboard.md)
+* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teacher-professor/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
 
 ***
 
