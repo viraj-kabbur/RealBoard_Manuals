@@ -6,7 +6,7 @@ If you are not familiar with creating classes on RealLives you can refer to this
 
 ### To create a class with a global citizenship assignment + Lesson Plan:
 
-You can follow the steps mentioned here:
+You can follow the steps mentioned here:-
 
 {% content-ref url="creating-a-class-with-global-citizenship-assignment.md" %}
 [creating-a-class-with-global-citizenship-assignment.md](creating-a-class-with-global-citizenship-assignment.md)
