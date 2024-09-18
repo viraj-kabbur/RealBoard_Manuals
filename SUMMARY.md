@@ -26,11 +26,9 @@
 * [Creating Cards](cards/creating-cards.md)
 * [Managing Cards](cards/managing-cards.md)
 
-## RealBoard for teacher/professor
+## Realboard for Teachers
 
-* [RealBoard and RealLives Integration](realboard-for-teacher-professor/realboard-and-reallives-integration.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teacher-professor/class-with-global-citizenship-assignment-+-realboard.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teacher-professor/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
+* [Page 1](realboard-for-teachers/page-1.md)
 
 ***
 
