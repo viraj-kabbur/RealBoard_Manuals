@@ -1,46 +1,46 @@
-# Adding Sections
+# Lägga Till Sektioner
 
-In RealBoard, **Sections** are components within a Board that help categorize and organize content related to assignments, projects, or topics. Each board can contain multiple sections, each serving a specific purpose or focus area.
+I RealBoard är **Sektioner** komponenter inom en tavla som hjälper till att kategorisera och organisera innehåll relaterat till uppgifter, projekt eller ämnen. Varje tavla kan innehålla flera sektioner, var och en med ett specifikt syfte eller fokusområde.
 
-## Purpose of Sections
+## Syfte med Sektioner
 
-Sections are designed to:
+Sektioner är utformade för att:
 
-1. **Categorize Content:** Organize different types of content or aspects of an assignment into distinct areas for better clarity and management.
-2. **Enhance Organization:** Allow for a structured layout within a board, making it easier for students to find and work on specific tasks or assignments.
-3. **Facilitate Specific Goals:** Target different types of activities or reflections, such as project milestones, personal reflections, or SDG challenges.
+1. **Kategorisera Innehåll:** Organisera olika typer av innehåll eller aspekter av en uppgift i tydliga områden för bättre klarhet och hantering.
+2. **Förbättra Organisationen:** Möjliggör en strukturerad layout inom en tavla, vilket gör det enklare för studenter att hitta och arbeta med specifika uppgifter eller projekt.
+3. **Underlätta Specifika Mål:** Riktar sig mot olika typer av aktiviteter eller reflektioner, såsom projektmilstolpar, personliga reflektioner eller SDG-utmaningar.
 
-## Key Features of Sections
+## Viktiga Funktioner för Sektioner
 
-1. **Title:** Each section has a **Title**. The title describes the focus of the section.
-2. **Examples of Sections:**
-   * **SDG Challenges:** Sections focused on Sustainable Development Goals (SDGs), where students can work on related challenges and document their progress.
-   * **Personal Reflection:** Sections where students reflect on their learning experiences, share insights, and discuss their personal growth.
-   * **Custom Sections:** Teacher/Professor can create custom sections to fit specific needs or assignments, such as group projects, research topics, or skill development.
+1. **Titel:** Varje sektion har en **Titel**. Titeln beskriver sektionens fokus.
+2. **Exempel på Sektioner:**
+   * **SDG-utmaningar:** Sektioner inriktade på Hållbara Utvecklingsmål (SDG), där studenter kan arbeta med relaterade utmaningar och dokumentera sina framsteg.
+   * **Personlig Reflektion:** Sektioner där studenter reflekterar över sina lärandeupplevelser, delar insikter och diskuterar sin personliga utveckling.
+   * **Anpassade Sektioner:** Lärare/Professorer kan skapa anpassade sektioner för att passa specifika behov eller uppgifter, såsom grupparbeten, forskningsteman eller färdighetsutveckling.
 
-## How to Add a Section
+## Hur man Lägger Till en Sektion
 
-1. <mark style="background-color:blue;">**Open Board:**</mark> Navigate to the board where you want to add a section. Click on View Board.
+1. <mark style="background-color:blue;">**Öppna Tavla:**</mark> Navigera till tavlan där du vill lägga till en sektion. Klicka på Visa Tavla.
 
 <figure><img src="../.gitbook/assets/Untitled design (8).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Add Section:**</mark> Click on the **Add Section** button.
+2. <mark style="background-color:blue;">**Lägg Till Sektion:**</mark> Klicka på knappen **Lägg till Sektion**.
 
 <figure><img src="../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Section Details:**</mark>
+3. <mark style="background-color:blue;">**Ange Sektionsdetaljer:**</mark>
 
-* **Name:** Provide a descriptive title for the section.
-* **Description:** Provide a short description about your section so students will know what they have to post in the said section.
-* Media: Attach images, videos, audio, documents, images/youtube videos from the internet
+* **Namn:** Ge en beskrivande titel för sektionen.
+* **Beskrivning:** Ge en kort beskrivning av din sektion så att studenter vet vad de ska posta i den aktuella sektionen.
+* Media: Bifoga bilder, videor, ljud, dokument, bilder/YouTube-videor från internet.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 171733.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to include the section in the board.
+4. <mark style="background-color:blue;">**Publicera:**</mark> Klicka på **Publicera** för att inkludera sektionen i tavlan.
 
-## Examples of Section Usage
+## Exempel på Användning av Sektioner
 
-* **SDG Challenges Section:** Use this section to group assignments related to global sustainability goals. Students can submit their work, track their progress, and receive feedback on their efforts.
-* **Personal Reflection Section:** Students can post their reflections on their learning experiences, discuss challenges faced, and share insights gained throughout their projects.
+* **SDG-utmaningar Sektion:** Använd denna sektion för att gruppera uppgifter relaterade till globala hållbarhetsmål. Studenter kan lämna in sitt arbete, följa sina framsteg och få feedback på sina insatser.
+* **Personlig Reflektion Sektion:** Studenter kan posta sina reflektioner om sina lärandeupplevelser, diskutera utmaningar de mött och dela insikter de fått under sina projekt.
 
-Sections help in organizing and structuring the content within a board, making it easier for teachers/professors and students to manage and interact with their assignments effectively.
+Sektioner hjälper till att organisera och strukturera innehållet inom en tavla, vilket gör det enklare för lärare/professorer och studenter att hantera och interagera med sina uppgifter på ett effektivt sätt.
