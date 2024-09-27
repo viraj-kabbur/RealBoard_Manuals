@@ -1,8 +1,8 @@
-# Managing Boards
+# Hantera Tavlor
 
-To manage existing boards:
+För att hantera befintliga tavlor:
 
-1. Navigate to the **Boards** section.
-2. Click on the board you want to manage.
-3. Use the options to **Edit** the board as needed.
-4. Adjust settings or add new sections through the board management interface.
+1. Navigera till **Tavlor**-sektionen.
+2. Klicka på den tavla du vill hantera.
+3. Använd alternativen för att **Redigera** tavlan efter behov.
+4. Justera inställningarna eller lägg till nya sektioner genom gränssnittet för tavlehantering.
