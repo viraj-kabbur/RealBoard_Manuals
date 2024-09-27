@@ -1,10 +1,10 @@
-# Managing Cards
+# Hantera Kort
 
-To manage cards:
+För att hantera kort:
 
-1. Navigate to the section with the card.
-2. Click on the card you want to manage.
-3. Use options to **Edit** or **Delete** the card.
-4. Update details or remove the card as needed.
+1. Navigera till sektionen med kortet.
+2. Klicka på det kort du vill hantera.
+3. Använd alternativen för att **Redigera** eller **Ta bort** kortet.
+4. Uppdatera detaljer eller ta bort kortet efter behov.
 
-Managing cards ensures that all content is relevant and up-to-date.
+Att hantera kort säkerställer att allt innehåll är relevant och uppdaterat.
