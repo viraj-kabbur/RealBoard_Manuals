@@ -1,66 +1,66 @@
-# Class with Global Citizenship Assignment + RealBoard
+# Klass med Globalt Medborgarskapsuppdrag + RealBoard
 
-## Class with Global Citizenship Assignment + RealBoard
+## Klass med Globalt Medborgarskapsuppdrag + RealBoard
 
-If you are not familiar with creating classes on RealLives you can refer to this Manual which explains the process in great detail.
+Om du inte är bekant med att skapa klasser i RealLives kan du hänvisa till denna manual som förklarar processen i detalj.
 
 {% embed url="https://usermanual.reallivesworld.com/v/teacher-en/teacher/class-with-global-citizenship-assignment" %}
 
-#### To create a class with a global citizenship assignment:
+#### För att skapa en klass med ett globalt medborgarskapsuppdrag:
 
-1. <mark style="background-color:blue;">**Log In:**</mark> Access your RealLives account.
-2. <mark style="background-color:blue;">**Create New Class:**</mark> Go to the **Classes** section and click on **Create New Class**.
+1. <mark style="background-color:blue;">**Logga In:**</mark> Få tillgång till ditt RealLives-konto.
+2. <mark style="background-color:blue;">**Skapa Ny Klass:**</mark> Gå till **Klasser**-sektionen och klicka på **Skapa Ny Klass**.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 174325.png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Class Details:**</mark> Provide a **Class Name**, **Description**, and other required information.
+3. <mark style="background-color:blue;">**Ange Klassdetaljer:**</mark> Ange ett **Klassnamn**, **Beskrivning** och annan nödvändig information.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 173729.png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Include RealBoard:**</mark> Tick the checkbox for including RealBoard in your class and name your board.
+4. <mark style="background-color:blue;">**Inkludera RealBoard:**</mark> Markera kryssrutan för att inkludera RealBoard i din klass och namnge din tavla.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 174033 (1).png" alt=""><figcaption></figcaption></figure>
 
-## Why We Use These Six Default Sections
+## Varför vi använder dessa sex förvalda sektioner
 
-In RealBoard, we have included six default sections to help both teachers/professors and students organize content effectively and promote a more structured approach to assignments. Each section is designed to target specific aspects of a student’s learning experience, encouraging deep reflection, analysis, and understanding.
+I RealBoard har vi inkluderat sex förvalda sektioner för att hjälpa både lärare/professorer och studenter att organisera innehåll effektivt och främja ett mer strukturerat tillvägagångssätt för uppgifter. Varje sektion är utformad för att rikta in sig på specifika aspekter av studentens lärandeupplevelse och uppmuntra djup reflektion, analys och förståelse.
 
-While these sections are provided by default, **you can edit them** here during the class creation process or later in RealBoard. Additionally, once inside RealBoard, **you have the flexibility to add new sections** that better fit your specific class or assignment needs.
+Även om dessa sektioner tillhandahålls som standard, **kan du redigera dem** här under klassens skapandeprocess eller senare i RealBoard. Dessutom, när du är inne i RealBoard, **har du flexibiliteten att lägga till nya sektioner** som bättre passar dina specifika klass- eller uppdragsbehov.
 
-Below is an explanation of each default section:
+Nedan följer en förklaring av varje standardsektion:
 
-#### 1. **About the Country**
+#### 1. **Om Landet**
 
-This section encourages students to explore and share important facts about their character's country of birth. It helps them research key details such as the nation’s culture, history, economy, and geography. This section is essential for building a foundational understanding of the social and cultural environment of the character’s life.
+Denna sektion uppmuntrar studenter att utforska och dela viktiga fakta om sin karaktärs födelseland. Det hjälper dem att undersöka nyckeldetaljer som nationens kultur, historia, ekonomi och geografi. Denna sektion är avgörande för att bygga en grundläggande förståelse för den sociala och kulturella miljön i karaktärens liv.
 
-#### 2. **Personal Reflection**
+#### 2. **Personlig Reflektion**
 
-Personal growth and self-awareness are crucial parts of education. This section prompts students to reflect on their personal experiences in the game, especially how certain life events have impacted their character’s journey. By writing about these reflections, students can connect their in-game experiences with real-world lessons, fostering emotional intelligence and critical thinking.
+Personlig utveckling och självmedvetenhet är viktiga delar av utbildning. Denna sektion uppmanar studenter att reflektera över sina personliga erfarenheter i spelet, särskilt hur vissa livshändelser har påverkat deras karaktärs resa. Genom att skriva om dessa reflektioner kan studenter koppla sina upplevelser i spelet till verkliga lärdomar, vilket främjar emotionell intelligens och kritiskt tänkande.
 
-#### 3. **Challenges Faced by My Family**
+#### 3. **Utmaningar Mötta av Min Familj**
 
-This section helps students examine the difficulties their character’s family has encountered. It pushes students to think about real-world social and economic challenges that affect families, encouraging them to reflect on resilience, perseverance, and the support systems that help individuals overcome adversity.
+Denna sektion hjälper studenter att undersöka de svårigheter som deras karaktärs familj har stött på. Det får studenter att tänka på verkliga sociala och ekonomiska utmaningar som påverkar familjer och uppmuntrar dem att reflektera över motståndskraft, uthållighet och stödsystem som hjälper individer att övervinna motgångar.
 
-#### 4. **SDG Challenges**
+#### 4. **SDG-utmaningar**
 
-This section connects students’ experiences to the **Sustainable Development Goals (SDGs)**. It allows them to discuss how global issues such as poverty, health, education, and climate action are reflected in the character’s life and community. The section emphasizes the importance of local and global actions to achieve SDGs.
+Denna sektion kopplar studenternas upplevelser till **Hållbara Utvecklingsmål (SDGs)**. Den låter dem diskutera hur globala frågor som fattigdom, hälsa, utbildning och klimatåtgärder återspeglas i karaktärens liv och samhälle. Sektionen betonar vikten av lokala och globala insatser för att uppnå SDG:erna.
 
-#### 5. **Empathy Values**
+#### 5. **Empativärderingar**
 
-Empathy is an important value in global citizenship. This section focuses on helping students understand and practice empathy, both within the context of the game and in real life. Students share stories where they or their character showed empathy, discuss the importance of understanding others' perspectives, and highlight ways to practice empathy in their communities.
+Empati är en viktig värdering inom globalt medborgarskap. Denna sektion fokuserar på att hjälpa studenter att förstå och öva empati, både inom spelets kontext och i verkligheten. Studenter delar berättelser där de själva eller deras karaktär visade empati, diskuterar vikten av att förstå andras perspektiv och lyfter fram sätt att öva empati i sina samhällen.
 
-#### 6. **Events Which Bothered Me**
+#### 6. **Händelser som Störde Mig**
 
-This section encourages students to discuss and reflect on events that troubled them during the game. It provides a space to share how certain situations affected them emotionally and mentally, and how they dealt with these challenges. By reflecting on these experiences, students can learn to better understand their emotions and develop coping strategies.
+Denna sektion uppmuntrar studenter att diskutera och reflektera över händelser som störde dem under spelet. Den ger utrymme att dela hur vissa situationer påverkade dem känslomässigt och mentalt, och hur de hanterade dessa utmaningar. Genom att reflektera över dessa upplevelser kan studenter lära sig att bättre förstå sina känslor och utveckla strategier för att hantera dem.
 
 ***
 
-5. <mark style="background-color:blue;">**Edit Options:**</mark> Editing the section name and it's description.
+5. <mark style="background-color:blue;">**Redigeringsalternativ:**</mark> Redigera sektionsnamnet och dess beskrivning.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 174044.png" alt=""><figcaption></figcaption></figure>
 
-6. <mark style="background-color:blue;">**Create a Class:**</mark> Save on confirm and create your class.
+6. <mark style="background-color:blue;">**Skapa en Klass:**</mark> Spara för att bekräfta och skapa din klass.
 
-#### A corresponding board will be created in RealBoard for this class, and students will receive a notification.
+#### En motsvarande tavla kommer att skapas i RealBoard för denna klass, och studenterna kommer att få en notifikation.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 175713 (1).png" alt=""><figcaption></figcaption></figure>
