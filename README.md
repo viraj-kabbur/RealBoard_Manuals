@@ -1,8 +1,8 @@
 ---
 description: >-
-  RealBoard är ett socialt nätverk utformat för skolor/universitet som integreras med
-  RealLives. Det låter lärare/professorer tilldela uppgifter och studenter att dela sina
-  erfarenheter genom en samarbetsplattform.
+  RealBoard är ett socialt nätverk utformat för skolor/universitet som
+  integreras med RealLives. Det låter lärare/professorer tilldela uppgifter och
+  studenter att dela sina erfarenheter genom en samarbe
 layout:
   title:
     visible: true

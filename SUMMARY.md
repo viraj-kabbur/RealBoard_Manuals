@@ -1,34 +1,34 @@
 # Table of contents
 
-## Introduction
+## Introduktion
 
-* [Overview](README.md)
-* [Getting Started](introduction/getting-started.md)
-* [Home](introduction/home.md)
+* [Översikt](README.md)
+* [Komma igång](introduktion/getting-started.md)
+* [Hem](introduktion/home.md)
 
-## Navigating through the UI
+## Navigerar genom användargränssnittet
 
-* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
+* [RealBoard användargränssnitt](navigerar-genom-anvandargranssnittet/realboard-user-interface.md)
 
-## Boards
+## Brädor
 
-* [Creating Boards](boards/creating-boards.md)
-* [Managing Boards](boards/managing-boards.md)
+* [Skapa styrelser](brador/creating-boards.md)
+* [Styrelser](brador/managing-boards.md)
 
-## Sections
+## Avsnitt
 
-* [Adding Sections](sections/adding-sections.md)
-* [Customizing Sections](sections/customizing-sections.md)
+* [Lägga till avsnitt](avsnitt/adding-sections.md)
+* [Anpassa sektioner](avsnitt/customizing-sections.md)
 
-## Cards
+## Kort
 
-* [Creating Cards](cards/creating-cards.md)
-* [Managing Cards](cards/managing-cards.md)
+* [Skapa kort](kort/creating-cards.md)
+* [Hantera kort](kort/managing-cards.md)
 
-## Accessing RealBoard
+## Åtkomst till RealBoard
 
-* [Through the RealLives Dashboard](accessing-realboard/through-the-reallives-dashboard.md)
-* [When Added to a Class](accessing-realboard/when-added-to-a-class.md)
+* [Genom RealLives Dashboard](atkomst-till-realboard/through-the-reallives-dashboard.md)
+* [När den läggs till i en klass](atkomst-till-realboard/when-added-to-a-class.md)
 
 ***
 
