@@ -1,81 +1,81 @@
-# When Added to a Class
+# När du läggs till i en klass
 
-## When Added to a Class
+## När du läggs till i en klass
 
-If your teacher/professor adds you to a class with an assignment:
+Om din lärare/professor lägger till dig i en klass med en uppgift:
 
-1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
+1. <mark style="background-color:blue;">**Notis:**</mark> Du kommer att få en notis om att du har lagts till i en ny klass.
 
 <figure><img src="../.gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Class Details:**</mark> The notification will include information about the class and assignment.
+2. <mark style="background-color:blue;">**Klassdetaljer:**</mark> Notisen kommer att innehålla information om klassen och uppgiften.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 182628.png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Start Living the Life:**</mark> Click on the "Take on an assignment" button
+3. <mark style="background-color:blue;">**Börja Leva Livet:**</mark> Klicka på knappen "Ta på dig en uppgift"
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-03 182615.png" alt=""><figcaption></figcaption></figure>
 
-**When you are playing RealLives:**
+**När du spelar RealLives:**
 
 <figure><img src="../.gitbook/assets/Untitled design (4).png" alt=""><figcaption></figcaption></figure>
 
-#### **Click RealBoard Button:** During gameplay, you will see the **RealBoard** button within the RealLives interface.
+#### **Klicka på RealBoard-knappen:** Under spelet kommer du att se **RealBoard-knappen** inom RealLives-gränssnittet.
 
 <figure><img src="../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
 
-## Adding a Card in RealBoard (from within RealLives)
+## Lägga till ett kort i RealBoard (från RealLives)
 
-When you click the **RealBoard** button in RealLives, you are presented with three options:
+När du klickar på **RealBoard-knappen** i RealLives, presenteras du med tre alternativ:
 
-1. **Add Card with Screenshot**
-2. **Add Card without Screenshot**
-3. **Go to RealBoard Home**
+1. **Lägg till kort med skärmdump**
+2. **Lägg till kort utan skärmdump**
+3. **Gå till RealBoards hemsida**
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094009.png" alt=""><figcaption></figcaption></figure>
 
-### 1. Adding a Card with or without Screenshot
+### 1. Lägga till ett kort med eller utan skärmdump
 
-Whether you choose to add a card with or without a screenshot, the following fields and features are common:
+Oavsett om du väljer att lägga till ett kort med eller utan skärmdump, är följande fält och funktioner gemensamma:
 
-#### Common Fields and Features:
+#### Gemensamma Fält och Funktioner:
 
-* **Board Name**: The name of the board associated with your class is displayed at the top of the card creation window. This helps you keep track of which assignment you are working on.
-* **Character Attributes**: The name, age, gender of your current character in RealLives will also be displayed. This connects the actions you take in RealLives with the card you are posting on RealBoard.
-* **Section Name**: You can choose which section of the board to post your card in. The section names are pre-determined by your teacher/professor (e.g., "About the Country"). You will also see the total number of cards already posted in that section. (0), (1),...
-* **Total Number of Cards**: You can view the total number of cards you have already posted in the class, helping you track your progress.
+* **Tavlans Namn**: Namnet på tavlan kopplad till din klass visas högst upp i kortskapandefönstret. Detta hjälper dig att hålla koll på vilken uppgift du arbetar med.
+* **Karaktärsattribut**: Namnet, åldern och könet på din aktuella karaktär i RealLives kommer också att visas. Detta kopplar dina handlingar i RealLives till kortet du publicerar på RealBoard.
+* **Sektionsnamn**: Du kan välja vilken sektion på tavlan du vill posta ditt kort i. Sektionsnamnen är förutbestämda av din lärare/professor (t.ex. "Om Landet"). Du ser också det totala antalet kort som redan har postats i den sektionen. (0), (1),...
+* **Totalt Antal Kort**: Du kan se det totala antalet kort du redan har postat i klassen, vilket hjälper dig att följa dina framsteg.
 
-#### If you choose to add a screenshot, you get the option of cropping the screenshot to highlight only the important information in your card
+#### Om du väljer att lägga till en skärmdump får du alternativet att beskära skärmdumpen för att markera endast den viktiga informationen i ditt kort.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 132214.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094157.png" alt=""><figcaption></figcaption></figure>
 
-#### Card Fields:
+#### Kortfält:
 
-* **Card Title**: Enter a descriptive title for your card. The title should reflect the content or main idea of your post (e.g., “Born in a Country with the Lowest Marriage Age”).
-* **Card Description**: This is where you provide a more detailed explanation of your post. You can format the description with bold, italics, or underline text, and you can also include lists.
-*   **Add Media**: You have the option to attach relevant media from various categories, including:
+* **Korttitel**: Ange en beskrivande titel för ditt kort. Titeln bör återspegla innehållet eller huvudidén med ditt inlägg (t.ex. "Född i ett land med den lägsta äktenskapsåldern").
+* **Kortbeskrivning**: Här kan du ge en mer detaljerad förklaring av ditt inlägg. Du kan formatera beskrivningen med fetstil, kursiv eller understruken text, och du kan även inkludera listor.
+* **Lägg till media**: Du har möjlighet att bifoga relevant media från olika kategorier, inklusive:
 
-    * **Image** (e.g., a reference image you would like to show)
+    * **Bild** (t.ex. en referensbild du vill visa)
     * **Video**
-    * **Document** (e.g., a written report or reflection)
+    * **Dokument** (t.ex. en skriftlig rapport eller reflektion)
 
-    You can only add **one media item per category** to your card.
+    Du kan bara lägga till **en mediafil per kategori** till ditt kort.
 
-#### Tag SDGs (Sustainable Development Goals): <mark style="background-color:red;">Maximum 2</mark>
+#### Tagga SDGs (Hållbara Utvecklingsmål): <mark style="background-color:red;">Maximalt 2</mark>
 
-* **Select Two SDGs**: You will be asked to select up to two relevant **Sustainable Development Goals (SDGs)** from the list of 17. These should align with the theme of your post. The SDGs include goals like **No Poverty**, **Quality Education**, and **Climate Action**.
+* **Välj Två SDGs**: Du ombeds att välja upp till två relevanta **Hållbara Utvecklingsmål (SDGs)** från listan på 17. Dessa bör stämma överens med temat för ditt inlägg. SDG-målen inkluderar mål som **Ingen Fattigdom**, **God Utbildning** och **Klimatåtgärder**.
 
-#### Posting the Card:
+#### Publicera Kortet:
 
-* Once you have filled out all the required fields (title, description, media, and SDGs), click the **Add to RealBoard** button to post your card.
-* Your card will be visible to your teacher/professor and classmates, and will be part of the board associated with your class.
+* När du har fyllt i alla obligatoriska fält (titel, beskrivning, media och SDGs), klicka på **Lägg till RealBoard**-knappen för att publicera ditt kort.
+* Ditt kort kommer att vara synligt för din lärare/professor och klasskamrater och kommer att vara en del av tavlan kopplad till din klass.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094613.png" alt=""><figcaption><p>Kort med skärmdump</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094626.png" alt=""><figcaption><p>Card with Screenshot</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-09-05 094626.png" alt=""><figcaption><p>Kort med skärmdump</p></figcaption></figure>
 
-### 2. Go to RealBoard Home
+### 2. Gå till RealBoards Hemsida
 
-If you choose the **Go to RealBoard Home** option, you will be redirected to the RealBoard main page. Here, you can view all your boards, navigate between different sections, and manage your cards across different classes.
+Om du väljer alternativet **Gå till RealBoards Hemsida**, omdirigeras du till huvudsidan i RealBoard. Här kan du visa alla dina tavlor, navigera mellan olika sektioner och hantera dina kort i olika klasser.
