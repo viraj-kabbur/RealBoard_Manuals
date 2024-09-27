@@ -1,34 +1,34 @@
 # Table of contents
 
-## Introduction
+## Introduktion
 
-* [Overview](README.md)
-* [Getting Started](introduction/getting-started.md)
-* [Home](introduction/home.md)
+* [Översikt](README.md)
+* [Komma igång](introduktion/getting-started.md)
+* [Hem](introduktion/home.md)
 
-## Navigating through the UI
+## Navigerar genom användargränssnittet
 
-* [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
-* [Inviting Students and teacher/professor to the Board](navigating-through-the-ui/inviting-students-and-teacher-professor-to-the-board.md)
+* [RealBoard användargränssnitt](navigerar-genom-anvandargranssnittet/realboard-user-interface.md)
+* [Bjud in studenter och lärare/professorer till styrelsen](navigerar-genom-anvandargranssnittet/inviting-students-and-teacher-professor-to-the-board.md)
 
-## Boards
+## Brädor
 
-* [Creating Boards](boards/creating-boards.md)
-* [Managing Boards](boards/managing-boards.md)
+* [Skapa styrelser](brador/creating-boards.md)
+* [Styrelser](brador/managing-boards.md)
 
-## Sections
+## Avsnitt
 
-* [Adding Sections](sections/adding-sections.md)
-* [Customizing Sections](sections/customizing-sections.md)
+* [Lägga till avsnitt](avsnitt/adding-sections.md)
+* [Anpassa sektioner](avsnitt/customizing-sections.md)
 
-## Cards
+## Kort
 
-* [Creating Cards](cards/creating-cards.md)
-* [Managing Cards](cards/managing-cards.md)
+* [Skapa kort](kort/creating-cards.md)
+* [Hantera kort](kort/managing-cards.md)
 
-## Realboard for Teachers/Professors
+## Realboard för lärare/professorer
 
-* [RealBoard and RealLives Integration Manual](realboard-for-teachers-professors/realboard-and-reallives-integration-manual.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teachers-professors/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
-* [FAQ](realboard-for-teachers-professors/faq.md)
+* [RealBoard och RealLives Integration Manual](realboard-for-larare-professorer/realboard-and-reallives-integration-manual.md)
+* [Class with Global Citizenship Assignment + RealBoard](realboard-for-larare-professorer/class-with-global-citizenship-assignment-+-realboard.md)
+* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-larare-professorer/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
+* [FAQ](realboard-for-larare-professorer/faq.md)
