@@ -9,7 +9,7 @@
 ## Navigating through the UI
 
 * [RealBoard User Interface](navigating-through-the-ui/realboard-user-interface.md)
-* [Inviting Students and teacher/professor to the Board](navigating-through-the-ui/inviting-students-and-teacher-professor-to-the-board.md)
+* [Inviting Students and Teachers/Professors to the Board](navigating-through-the-ui/inviting-students-and-teacher-professor-to-the-board.md)
 
 ## Boards
 
