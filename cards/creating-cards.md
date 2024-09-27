@@ -1,50 +1,46 @@
-# Creating Cards
+# Skapa Kort
 
-In RealBoard, **Cards** are individual tiles within a Section where students can document and share their work, reflections, and other relevant content. Each card represents a discrete piece of work or an individual entry related to the assignments and activities in the section.
+I RealBoard är **Kort** individuella rutor inom en sektion där studenter kan dokumentera och dela sitt arbete, reflektioner och annat relevant innehåll. Varje kort representerar ett enskilt arbete eller en individuell inlämning kopplad till uppgifterna och aktiviteterna i sektionen.
 
-## Purpose of Cards
+## Syfte med Kort
 
-Cards serve several important functions:
+Kort har flera viktiga funktioner:
 
-1. **Showcase Work:** Allow students to present their completed assignments, projects, or reflections in a structured and accessible format.
-2. **Encourage Reflection:** Provide a space for students to share their thoughts, insights, and experiences related to their tasks or learning process.
-3. **Facilitate Interaction:** Enable teachers/professors and peers to view, comment on, and provide feedback on the student’s work.&#x20;
+1. **Visa upp arbete:** Låter studenter presentera sina färdiga uppgifter, projekt eller reflektioner i ett strukturerat och tillgängligt format.
+2. **Uppmuntra reflektion:** Ger studenter ett utrymme att dela sina tankar, insikter och upplevelser kopplade till deras uppgifter eller lärandeprocess.
+3. **Främja interaktion:** Möjliggör för lärare/professorer och kamrater att se, kommentera och ge feedback på studentens arbete.&#x20;
 
-## Key Features of Cards
+## Viktiga funktioner för Kort
 
-1. **Title and Description:** Each card has a **Title** and **Description**. The title briefly identifies the content of the card, while the description provides more detailed information.
-2. **Attachments:** Cards can include various relevant attachments such as **Screenshots**, **Files**, or **Links** relevant to the content.
-3. **Comments and Feedback:** Cards may have a section for comments where teachers/professors and peers can provide feedback or ask questions.
-4. **Stars**: Teachers/Professors can rate a card out of 5 stars based on the creativity of the card.
-5. **Reactions**: Students and teachers/professors can react on cards with the help of emojis.
+1. **Titel och Beskrivning:** Varje kort har en **Titel** och en **Beskrivning**. Titeln identifierar kortets innehåll kortfattat, medan beskrivningen ger mer detaljerad information.
+2. **Bilagor:** Kort kan inkludera olika relevanta bilagor såsom **Skärmdumpar**, **Filer** eller **Länkar** som är relevanta för innehållet.
+3. **Kommentarer och Feedback:** Kort kan ha en sektion för kommentarer där lärare/professorer och kamrater kan ge feedback eller ställa frågor.
+4. **Stjärnor:** Lärare/Professorer kan betygsätta ett kort med upp till 5 stjärnor baserat på kortets kreativitet.
+5. **Reaktioner:** Studenter och lärare/professorer kan reagera på kort med hjälp av emojis.
 
-In RealBoard, we’ve included a set of emojis for reactions to help users quickly express their thoughts and feelings about a post. These emojis— 👍 (Like), ❤️ (Love), 😂 (Funny), 😲 (Surprised), 😢 (Sad), and 😡 (Angry)— offer a range of emotional responses, allowing for a more interactive and engaging experience. By using reactions, students and teachers/professors can easily provide feedback or acknowledge a post without needing to leave a comment, making interaction faster and more fun.
+I RealBoard har vi inkluderat ett set emojis för reaktioner för att hjälpa användare snabbt uttrycka sina tankar och känslor kring ett inlägg. Dessa emojis— 👍 (Gilla), ❤️ (Älska), 😂 (Rolig), 😲 (Överraskad), 😢 (Ledsen), och 😡 (Arg)— erbjuder ett spektrum av känslomässiga reaktioner, vilket skapar en mer interaktiv och engagerande upplevelse. Genom att använda reaktioner kan studenter och lärare/professorer enkelt ge feedback eller erkänna ett inlägg utan att behöva lämna en kommentar, vilket gör interaktionen snabbare och roligare.
 
-## How to Create a Card
+## Hur man skapar ett Kort
 
-1. <mark style="background-color:blue;">**Open Section:**</mark> Navigate to the section where you want to add a card. Click on the **Add Card** button.
+1. <mark style="background-color:blue;">**Öppna Sektion:**</mark> Navigera till den sektion där du vill lägga till ett kort. Klicka på knappen **Lägg till Kort**.
 
 <figure><img src="../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
-2. <mark style="background-color:blue;">**Create New Card:**</mark> Click on the **Add Card** button.
+2. <mark style="background-color:blue;">**Skapa Nytt Kort:**</mark> Klicka på knappen **Lägg till Kort**.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 180911.png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="background-color:blue;">**Enter Card Details:**</mark>
+3. <mark style="background-color:blue;">**Ange Kortdetaljer:**</mark>
 
-* **Name:** Provide a concise title for the card.
-* **Description:** Add a detailed description of the content or work presented in the card.
-* **Attachments:** Upload any relevant files, audio, screenshots, videos or links.
+* **Namn:** Ange en kortfattad titel för kortet.
+* **Beskrivning:** Lägg till en detaljerad beskrivning av innehållet eller arbetet som presenteras i kortet.
+* **Bilagor:** Ladda upp relevanta filer, ljud, skärmdumpar, videor eller länkar.
 
-4. <mark style="background-color:blue;">**Post:**</mark> Click **Publish** to create the card.
+4. <mark style="background-color:blue;">**Publicera:**</mark> Klicka på **Publicera** för att skapa kortet.
 
+## Exempel på Användning av Kort
 
+* **Inlämningskort för Uppgift:** En student lämnar in sin färdiga uppgift genom att skapa ett kort med titeln "Forskningsrapport om Klimatförändringar," en beskrivning som sammanfattar innehållet, och en bilaga med den färdiga rapporten.
+* **Personligt Reflektionskort:** En student reflekterar över ett grupparbete genom att skapa ett kort med titeln "Reflektion över Gruppdynamik," med en beskrivning av deras upplevelse och en skärmdump av projektets slutpresentation.
 
-## Examples of Card Usage
-
-* **Assignment Submission Card:** A student submits their completed assignment by creating a card with a title like “Research Paper on Climate Change,” a description summarizing the content, and an attachment of the completed paper.
-* **Personal Reflection Card:** A student reflects on a group project by creating a card titled “Reflection on Group Dynamics,” with a description of their experience and a screenshot of the project’s final presentation.
-
-
-
-Cards provide a flexible and organized way for students to present their work and for teachers/professors to review and provide feedback. They are an essential component of the RealBoard platform, helping to manage and display student contributions effectively.
+Kort ger ett flexibelt och organiserat sätt för studenter att presentera sitt arbete och för lärare/professorer att granska och ge feedback. De är en väsentlig del av RealBoard-plattformen, vilket hjälper till att hantera och visa studentbidrag på ett effektivt sätt.
