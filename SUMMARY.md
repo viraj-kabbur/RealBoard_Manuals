@@ -29,6 +29,6 @@
 ## Realboard för lärare/professorer
 
 * [RealBoard och RealLives Integration Manual](realboard-for-larare-professorer/realboard-and-reallives-integration-manual.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-larare-professorer/class-with-global-citizenship-assignment-+-realboard.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-larare-professorer/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
+* [Klass med Globalt Medborgarskapsuppdrag + RealBoard](realboard-for-larare-professorer/class-with-global-citizenship-assignment-+-realboard.md)
+* [Skapa en Klass med Globalt Medborgarskapsuppdrag + Lektionsplan + RealBoard](realboard-for-larare-professorer/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
 * [FAQ](realboard-for-larare-professorer/faq.md)
