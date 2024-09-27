@@ -1,70 +1,70 @@
 ---
-description: Exploring all the features RealBoard has to offer
+description: Utforska alla funktioner som RealBoard har att erbjuda
 ---
 
-# RealBoard User Interface
+# RealBoard Användargränssnitt
 
 <figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
 
-The RealBoard interface is designed to provide an intuitive and organized user experience. Below is a guide to understanding the various elements of the UI, starting from the left side and moving across the screen.
+RealBoards gränssnitt är utformat för att ge en intuitiv och organiserad användarupplevelse. Nedan finns en guide för att förstå de olika elementen i användargränssnittet, från vänster sida och över skärmen.
 
-## 1. Board Information
+## 1. Tavleinformation
 
-At the top left of the screen, you will find key information about the board you are viewing:
+Uppe till vänster på skärmen hittar du viktig information om den tavla du tittar på:
 
-* **Created By**: Displays the name of the person who created the board.
-* **Created On**: Shows the date when the board was created.
-* **Board Title**: In bold, the title of the board is displayed (e.g., "Born in a country where the marriage age is the lowest").
-* **Total Sections**: In brackets next to the board title, you can see the total number of sections within the board.
+* **Skapad av**: Visar namnet på den person som skapade tavlan.
+* **Skapad den**: Visar datumet när tavlan skapades.
+* **Tavlens Titel**: I fetstil visas titeln på tavlan (t.ex. "Född i ett land där äktenskapsåldern är den lägsta").
+* **Totala Sektioner**: Inom parentes bredvid tavlans titel kan du se det totala antalet sektioner inom tavlan.
 
-## 2. Search Bar
+## 2. Sökfält
 
-To the right of the board title, you will see a **Search Bar**. This allows you to search for specific text, card names, keywords, or other content within the board. It helps you quickly locate information without manually browsing through the sections.
+Till höger om tavlans titel ser du ett **Sökfält**. Detta låter dig söka efter specifik text, kortnamn, nyckelord eller annat innehåll inom tavlan. Det hjälper dig att snabbt hitta information utan att manuellt behöva bläddra genom sektionerna.
 
-## 3. Notification Icon
+## 3. Notifikationsikon
 
-Next to the search bar, you will find the **Notification Icon**. This icon alerts you to any new notifications, such as comments on your posts, updates from teacher/professors, or new assignments.  A red dot will indicate when you have unread notifications.
+Bredvid sökfältet hittar du **Notifikationsikonen**. Denna ikon varnar dig för nya notiser, såsom kommentarer på dina inlägg, uppdateringar från lärare/professorer eller nya uppgifter. En röd prick indikerar när du har olästa notiser.
 
-## 4. Language Change Icon
+## 4. Språkövergångsikon
 
-The **Language Change Icon** allows you to switch the interface language. Currently, RealBoard supports three languages:
+**Språkövergångsikonen** låter dig byta gränssnittsspråk. För närvarande stöder RealBoard tre språk:
 
-* **English**
-* **Swedish**
-* **Korean**
+* **Engelska**
+* **Svenska**
+* **Koreanska**
 
-You can change the language at any time by clicking the icon and selecting your preferred language.
+Du kan byta språk när som helst genom att klicka på ikonen och välja ditt föredragna språk.
 
-## 5. Minimize/Maximize Icon
+## 5. Minimera/Maximera Ikon
 
-To the right of the language icon, there is the **Minimize/Maximize Icon**. This allows you to toggle the size of the interface window, letting you work in a more compact view or expand it for better visibility of all sections and cards.
+Till höger om språkikonen finns **Minimera/Maximera Ikonen**. Denna låter dig växla storleken på gränssnitts-fönstret, så att du kan arbeta i en mer kompakt vy eller expandera det för bättre översikt över alla sektioner och kort.
 
-## 6. User Profile
+## 6. Användarprofil
 
-On the far right of the top bar, there is a **User Profile Circle**. This displays your profile picture and username. Clicking on this will give you access to your account settings and profile options.
+Längst till höger på toppbaren finns en **Användarprofilcirkel**. Den visar din profilbild och ditt användarnamn. Genom att klicka på detta får du tillgång till dina kontoinställningar och profilalternativ.
 
-## 7. Home Button
+## 7. Hemknapp
 
-Below the top bar, on the left, you will find the **Home Button**. Clicking this will take you to the main RealBoard homepage, where you can view and access all of your boards.
+Under toppbaren, till vänster, hittar du **Hemknappen**. Genom att klicka på denna kommer du till RealBoards huvudsida, där du kan visa och komma åt alla dina tavlor.
 
-## 8. Filter Options
+## 8. Filteralternativ
 
-Next to the Home button is the **Filter Icon**, which provides two types of filters to help you sort and find relevant content on the board:
+Bredvid hemknappen finns **Filterikonen**, som ger två typer av filter för att hjälpa dig sortera och hitta relevant innehåll på tavlan:
 
-1. **Common Filter**:
-   * **Most Commented Card**: Sorts the cards in the board by the number of comments.
-   * **Most Reacted Card**: Sorts the cards based on the number of reactions.
-2. **Filter by User**:
-   * Allows you to filter and view the cards and sections posted by specific users in the board.
+1. **Vanligt Filter**:
+   * **Mest kommenterade kort**: Sorterar korten i tavlan efter antalet kommentarer.
+   * **Mest reagerade kort**: Sorterar korten efter antalet reaktioner.
+2. **Filtrera efter användare**:
+   * Låter dig filtrera och visa kort och sektioner som postats av specifika användare på tavlan.
 
-## 9. Students and teachers/professors invite Button
+## 9. Inbjudningsknapp för Studenter och Lärare/Professorer
 
-To the right of the filters, there is the **Invite Button**, which allows you to invite other students and teachers/professors within your school/university to join the board. When inviting them, you can assign them one of the following privileges:
+Till höger om filtren finns **Inbjudningsknappen**, som låter dig bjuda in andra studenter och lärare/professorer inom din skola/universitet att gå med i tavlan. När du bjuder in dem kan du tilldela dem en av följande behörigheter:
 
-* **Read Only**: The student/teacher/professor can view the board and cards but cannot make changes or post new content.
-* **Write Only**: The student/teacher/professor can post cards and make changes but cannot access admin-level settings.
-* **Admin**: The student/teacher/professor has full control over the board, including adding sections, managing users, and modifying settings.
+* **Endast Läsa**: Studenten/läraren/professorn kan se tavlan och korten men inte göra ändringar eller posta nytt innehåll.
+* **Endast Skriva**: Studenten/läraren/professorn kan posta kort och göra ändringar men kan inte komma åt admin-nivåinställningar.
+* **Admin**: Studenten/läraren/professorn har full kontroll över tavlan, inklusive att lägga till sektioner, hantera användare och ändra inställningar.
 
-## 10. Add Section Icon
+## 10. Lägg till Sektionsikon
 
-Finally, on the far right, you’ll find the **Add Section Icon**. Clicking this allows you to create a new section within the board. Sections help organize the board by topic, making it easier for students to post relevant content and for teacher/professors to manage assignments.
+Slutligen, längst till höger, hittar du **Lägg till Sektionsikonen**. Genom att klicka på denna kan du skapa en ny sektion inom tavlan. Sektioner hjälper till att organisera tavlan efter ämne, vilket gör det lättare för studenter att posta relevant innehåll och för lärare/professorer att hantera uppgifter.
