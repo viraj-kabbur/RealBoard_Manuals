@@ -1,15 +1,15 @@
-# Through the RealLives Dashboard
+# Genom RealLives-instrumentpanelen
 
-To access RealBoard through the RealLives dashboard:
+För att få tillgång till RealBoard via RealLives-instrumentpanelen:
 
-1. <mark style="background-color:blue;">**Log In:**</mark> Open RealLives and log into your account.
-2. <mark style="background-color:blue;">**Dashboard:**</mark> Go to your **Dashboard.**
-3. <mark style="background-color:blue;">**RealBoard Button:**</mark> Look for the **RealBoard** button on the dashboard.
+1. <mark style="background-color:blue;">**Logga In:**</mark> Öppna RealLives och logga in på ditt konto.
+2. <mark style="background-color:blue;">**Instrumentpanelen:**</mark> Gå till din **Instrumentpanel.**
+3. <mark style="background-color:blue;">**RealBoard-knapp:**</mark> Leta efter **RealBoard-knappen** på instrumentpanelen.
 
 <figure><img src="../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
 
-4. <mark style="background-color:blue;">**Click Button:**</mark> Click the **RealBoard** button to open RealBoard in a new tab or window.
+4. <mark style="background-color:blue;">**Klicka på Knappen:**</mark> Klicka på **RealBoard-knappen** för att öppna RealBoard i en ny flik eller ett nytt fönster.
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 171044.png" alt=""><figcaption></figcaption></figure>
 
-From here, you can view boards, add cards, and manage your posts.
+Härifrån kan du visa tavlor, lägga till kort och hantera dina inlägg.
