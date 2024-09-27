@@ -1,124 +1,122 @@
 ---
 description: >-
-  This FAQ is designed to answer common questions and provide guidance for
-  students and teacher/professor using RealBoard in conjunction with RealLives.
+  Denna FAQ är utformad för att besvara vanliga frågor och ge vägledning till
+  studenter och lärare/professorer som använder RealBoard tillsammans med RealLives.
 ---
 
 # FAQ
 
-### 1. How do I access RealBoard from RealLives?
+### 1. Hur får jag tillgång till RealBoard från RealLives?
 
-To access RealBoard from within RealLives:
+För att komma åt RealBoard från RealLives:
 
-1. **Log in** to RealLives and start your gameplay.
-2. Look for the **RealBoard** button on your dashboard or during gameplay.
-3. **Click** the RealBoard button to open the interface. You’ll have three options:
-   * Add a card with a screenshot
-   * Add a card without a screenshot
-   * Go to RealBoard Home
+1. **Logga in** på RealLives och starta ditt spel.
+2. Leta efter **RealBoard-knappen** på din instrumentpanel eller under spelet.
+3. **Klicka** på RealBoard-knappen för att öppna gränssnittet. Du har tre alternativ:
+   * Lägg till ett kort med skärmdump
+   * Lägg till ett kort utan skärmdump
+   * Gå till RealBoards hemsida
 
-### 2. What are my options when I click the RealBoard button?
+### 2. Vilka alternativ har jag när jag klickar på RealBoard-knappen?
 
-When you click the **RealBoard** button in RealLives, you are presented with three options:
+När du klickar på **RealBoard-knappen** i RealLives får du tre alternativ:
 
-1. **Add Card with Screenshot**: You can capture a screenshot from the game and post it to RealBoard.
-2. **Add Card without Screenshot**: You can post a card without attaching a screenshot.
-3. **Go to RealBoard Home**: You can return to the main RealBoard page where all your boards, cards, and assignments are organized.
+1. **Lägg till Kort med Skärmdump**: Du kan ta en skärmdump från spelet och publicera den på RealBoard.
+2. **Lägg till Kort utan Skärmdump**: Du kan publicera ett kort utan att bifoga en skärmdump.
+3. **Gå till RealBoards hemsida**: Du kan återvända till huvudsidan i RealBoard där alla dina tavlor, kort och uppgifter är organiserade.
 
-### 3. How do I create a card with or without a screenshot?
+### 3. Hur skapar jag ett kort med eller utan skärmdump?
 
-After clicking **Add Card with Screenshot** or **Add Card without Screenshot**, you will need to:
+Efter att ha klickat på **Lägg till Kort med Skärmdump** eller **Lägg till Kort utan Skärmdump** behöver du:
 
-1. **Select a Section**: Choose which section in the board you want to post to. Each section corresponds to different topics or assignments.
-2. **Provide a Title**: Enter a descriptive title for your card.
-3. **Write a Description**: Provide a detailed explanation or reflection related to your gameplay.
-4. **Attach Media (Optional)**: You can add media such as images, videos, or documents.
-5. **Tag SDGs**: Select up to two **Sustainable Development Goals (SDGs)** that are relevant to your post.
-6. **Submit the Card**: Click **Add to RealBoard** to post your card to the board.
+1. **Välj en Sektion**: Välj vilken sektion i tavlan du vill posta till. Varje sektion motsvarar olika ämnen eller uppgifter.
+2. **Ange en Titel**: Skriv en beskrivande titel för ditt kort.
+3. **Skriv en Beskrivning**: Ge en detaljerad förklaring eller reflektion relaterad till ditt spelande.
+4. **Bifoga Media (Valfritt)**: Du kan lägga till media som bilder, videor eller dokument.
+5. **Tagga SDG**: Välj upp till två **Hållbara Utvecklingsmål (SDG)** som är relevanta för ditt inlägg.
+6. **Skicka Kortet**: Klicka på **Lägg till RealBoard** för att publicera ditt kort på tavlan.
 
-### 4. What are Sections in RealBoard?
+### 4. Vad är Sektioner i RealBoard?
 
-**Sections** are categories within a board that organize your cards by topic or assignment. Teacher/Professor create these sections based on the objectives of the class. When you post a card, you’ll choose the section that best fits your post.
+**Sektioner** är kategorier inom en tavla som organiserar dina kort efter ämne eller uppgift. Lärare/professorer skapar dessa sektioner baserat på klassens mål. När du publicerar ett kort väljer du den sektion som bäst passar ditt inlägg.
 
-For example, a section could be called **"Personal Reflection"** or **"About the Country"** and is where you’ll post your work related to that topic.
+Till exempel kan en sektion kallas **"Personlig Reflektion"** eller **"Om Landet"** och det är där du postar ditt arbete relaterat till det ämnet.
 
-### 5. What are Cards?
+### 5. Vad är Kort?
 
-**Cards** are individual tiles in RealBoard where you post your work or reflections. Each card can include a title, description, media (such as screenshots), and SDG tags. Cards are submitted within the relevant sections of a board.
+**Kort** är individuella rutor i RealBoard där du publicerar ditt arbete eller reflektioner. Varje kort kan inkludera en titel, beskrivning, media (såsom skärmdumpar) och SDG-taggar. Kort skickas in inom relevanta sektioner på en tavla.
 
-### 6. What are SDGs and why do I need to tag them?
+### 6. Vad är SDG och varför måste jag tagga dem?
 
-**SDGs** stand for **Sustainable Development Goals**, which are a set of 17 global goals designed by the United Nations to promote sustainability. When you create a card, you can select **up to two SDGs** that relate to the content of your card.
+**SDG** står för **Hållbara Utvecklingsmål**, som är ett set med 17 globala mål utformade av FN för att främja hållbarhet. När du skapar ett kort kan du välja **upp till två SDG** som relaterar till innehållet i ditt kort.
 
-For example, if your gameplay involves discussing health issues in a country, you might tag **Goal 3: Good Health and Well-being**.
+Till exempel, om ditt spel handlar om att diskutera hälsoproblem i ett land, kan du tagga **Mål 3: God Hälsa och Välbefinnande**.
 
-### 7. How do I know which board I’m posting to?
+### 7. Hur vet jag vilken tavla jag postar till?
 
-When creating a card, you will see the **Board Name** at the top of the card creation window. This tells you which class or assignment the board is connected to. Your teacher/professor sets up the board when they create an assignment in RealBoard.
+När du skapar ett kort ser du **Tavlans Namn** högst upp i fönstret för kortskapande. Detta talar om vilken klass eller uppgift tavlan är kopplad till. Din lärare/professor ställer in tavlan när de skapar en uppgift i RealBoard.
 
-### 8. How can I see my total number of posts or cards?
+### 8. Hur kan jag se mitt totala antal inlägg eller kort?
 
-While you are creating or viewing a card, you will see the **Total Number of Cards** posted by you in that class or assignment. This helps you keep track of your progress.
+När du skapar eller visar ett kort ser du **Totalt Antal Kort** som du har publicerat i den klassen eller uppgiften. Detta hjälper dig att hålla koll på dina framsteg.
 
-### 9. What if I can’t upload a screenshot or media file?
+### 9. Vad gör jag om jag inte kan ladda upp en skärmdump eller mediainnehåll?
 
-If you’re having trouble uploading a screenshot or media file, check the following:
+Om du har problem med att ladda upp en skärmdump eller mediainnehåll, kontrollera följande:
 
-* Ensure the file is the correct format (e.g., .jpg, .png for images, .mp4 for videos).
-* Check the file size; large files may not upload easily.
-* Verify your internet connection is stable.
+* Se till att filen har rätt format (t.ex. .jpg, .png för bilder, .mp4 för videor).
+* Kontrollera filstorleken; stora filer kan vara svåra att ladda upp.
+* Verifiera att din internetanslutning är stabil.
 
-If issues persist, contact support or your teacher/professor for help.
+Om problemen kvarstår, kontakta support eller din lärare/professor för hjälp.
 
-### 10. What happens after I submit my card?
+### 10. Vad händer efter att jag har skickat mitt kort?
 
-Once you submit your card:
+När du har skickat ditt kort:
 
-1. Your card will be posted in the relevant section of the board.
-2. It will be visible to your teacher/professor and classmates.
-3. Your teacher/professor may provide feedback or comments on your card.
-4. You can always view or edit your card by returning to the board.
+1. Ditt kort kommer att publiceras i relevant sektion på tavlan.
+2. Det blir synligt för din lärare/professor och klasskamrater.
+3. Din lärare/professor kan ge feedback eller kommentarer på ditt kort.
+4. Du kan alltid se eller redigera ditt kort genom att återvända till tavlan.
 
-### 11. How do I access the RealBoard Home page?
+### 11. Hur kommer jag åt RealBoards hemsida?
 
-If you select the **Go to RealBoard Home** option:
+Om du väljer **Gå till RealBoards hemsida**:
 
-* You will be redirected to the main RealBoard page where all your boards, sections, and cards are displayed.
-* From here, you can manage your cards, explore different boards, and view the progress of your classmates.
+* Du kommer att omdirigeras till huvudsidan i RealBoard där alla dina tavlor, sektioner och kort visas.
+* Härifrån kan du hantera dina kort, utforska olika tavlor och se dina klasskamraters framsteg.
 
-### 12. What notifications will I receive?
+### 12. Vilka notifikationer kommer jag att få?
 
-You will receive notifications in RealBoard for:
+Du kommer att få notifikationer i RealBoard för:
 
-* **New Class or Board**: When your teacher/professor creates a new class and you are added to it.
-* **Assignment Updates**: Any updates related to assignments or posts in your boards.
-* **Feedback on Cards**: When your teacher/professor provides feedback on a card you posted.
+* **Ny Klass eller Tavla**: När din lärare/professor skapar en ny klass och du läggs till i den.
+* **Uppdateringar om Uppgifter**: Eventuella uppdateringar relaterade till uppgifter eller inlägg i dina tavlor.
+* **Feedback på Kort**: När din lärare/professor ger feedback på ett kort du har publicerat.
 
-### 13. Can I edit a card after posting it?
+### 13. Kan jag redigera ett kort efter att ha publicerat det?
 
-Yes, you can edit your card after posting:
+Ja, du kan redigera ditt kort efter att ha publicerat det:
 
-1. Go to the board where you submitted the card.
-2. Find the card you wish to edit.
-3. Click the **Edit** button to update the title, description, media, or SDG tags.
-4. Save your changes.
+1. Gå till tavlan där du publicerade kortet.
+2. Hitta kortet du vill redigera.
+3. Klicka på **Redigera**-knappen för att uppdatera titeln, beskrivningen, media eller SDG-taggar.
+4. Spara dina ändringar.
 
-### 14. What if I’m added to a new class in RealBoard?
+### 14. Vad händer om jag läggs till i en ny klass i RealBoard?
 
-If your teacher/professor adds you to a new class:
+Om din lärare/professor lägger till dig i en ny klass:
 
-* You will receive a **notification** letting you know that you’ve been added to a class.
-* A new **board** will automatically be created for the class in RealBoard.
-* You can access the board and start posting cards related to the class assignment.
+* Du kommer att få en **notifikation** som meddelar att du har lagts till i en klass.
+* En ny **tavla** skapas automatiskt för klassen i RealBoard.
+* Du kan komma åt tavlan och börja publicera kort relaterade till klassuppgiften.
 
-### 15. What should I do if I can’t see my class or board?
+### 15. Vad gör jag om jag inte kan se min klass eller tavla?
 
-If you cannot see your class or board in RealBoard:
+Om du inte kan se din klass eller tavla i RealBoard:
 
-1. Check your notifications for updates on new classes or boards.
-2. Ensure that you are logged in with the correct student account.
-3. Contact your teacher/professor to confirm that you’ve been added to the correct class.
+1. Kontrollera dina notifikationer för uppdateringar om nya klasser eller tavlor.
+2. Se till att du är inloggad med rätt studentkonto.
+3. Kontakta din lärare/professor för att bekräfta att du har lagts till i rätt klass.
 
-If you still have trouble, you may need to contact RealBoard support.
-
-***
+Om du fortfarande har problem, kan du behöva kontakta RealBoard-supporten.
