@@ -1,10 +1,10 @@
-# Customizing Sections
+# Anpassa Sektioner
 
-You can customize each section to fit your needs:
+Du kan anpassa varje sektion för att passa dina behov:
 
-1. Go to the board containing the section.
-2. Click on the section you want to customize.
-3. Use the options to **Edit** the section as needed.
-4. Save your changes.
+1. Gå till tavlan som innehåller sektionen.
+2. Klicka på den sektion du vill anpassa.
+3. Använd alternativen för att **Redigera** sektionen efter behov.
+4. Spara dina ändringar.
 
-Customizing sections helps in organizing content and assignments effectively.
+Att anpassa sektioner hjälper till att organisera innehåll och uppgifter på ett effektivt sätt.
