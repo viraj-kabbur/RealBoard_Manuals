@@ -1,21 +1,21 @@
 ---
-description: Acts like an index for all the pages that are in this manual.
+description: Fungerar som ett index för alla sidor i denna manual.
 ---
 
-# Home
+# Hem
 
-In order to save time, you will find links of specific pages that you might want to go to.
+För att spara tid hittar du länkar till specifika sidor som du kanske vill gå till.
 
-* #### What are Boards, Sections, Cards ?
+* #### Vad är Tavlor, Sektioner, Kort?
 
 {% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+[Bruten länk](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+[Bruten länk](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+[Bruten länk](broken-reference)
 {% endcontent-ref %}
