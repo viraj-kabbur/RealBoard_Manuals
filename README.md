@@ -1,7 +1,7 @@
 ---
 description: >-
   RealBoard is a social network designed for schools/universities that
-  integrates with RealLives. .
+  integrates with RealLives. 
 layout:
   title:
     visible: true
