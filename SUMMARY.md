@@ -29,6 +29,5 @@
 ## Realboard for Teachers/Professors
 
 * [RealBoard and RealLives Integration Manual](realboard-for-teachers-professors/realboard-and-reallives-integration-manual.md)
-* [Class with Global Citizenship Assignment + RealBoard](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
-* [Creating a Class with Global Citizenship Assignment + Lesson Plan + RealBoard](realboard-for-teachers-professors/creating-a-class-with-global-citizenship-assignment-+-lesson-plan-+-realboard.md)
+* [Creating a class with RealBoard](realboard-for-teachers-professors/class-with-global-citizenship-assignment-+-realboard.md)
 * [FAQ](realboard-for-teachers-professors/faq.md)

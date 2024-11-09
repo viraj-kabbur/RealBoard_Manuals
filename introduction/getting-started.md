@@ -8,7 +8,7 @@ To get started with RealBoard, follow these steps:
 
 1. **Log In:** Access RealBoard through RealLives Dashboard using your credentials. Then click on the RealBoard button.
 
-<figure><img src="../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(22).png" alt=""><figcaption></figcaption></figure>
 
 2. **Set Up Boards:** Create boards for your assignments.
 

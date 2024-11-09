@@ -21,7 +21,3 @@ In order to save time, you will find links of specific pages that you might want
 {% endcontent-ref %}
 
 * #### How can Teachers/Professors use RealBoard ?
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
