@@ -6,7 +6,7 @@ If your teacher/professor adds you to a class with an assignment:
 
 1. <mark style="background-color:blue;">**Notification:**</mark> You will receive a notification that you have been added to a new class.
 
-<figure><img src="../.gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(23).png" alt=""><figcaption></figcaption></figure>
 
 2. <mark style="background-color:blue;">**Class Details:**</mark> The notification will include information about the class and assignment.
 

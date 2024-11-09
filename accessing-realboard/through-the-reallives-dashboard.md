@@ -6,7 +6,7 @@ To access RealBoard through the RealLives dashboard:
 2. <mark style="background-color:blue;">**Dashboard:**</mark> Go to your **Dashboard.**
 3. <mark style="background-color:blue;">**RealBoard Button:**</mark> Look for the **RealBoard** button on the dashboard.
 
-<figure><img src="../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled design(22).png" alt=""><figcaption></figcaption></figure>
 
 4. <mark style="background-color:blue;">**Click Button:**</mark> Click the **RealBoard** button to open RealBoard in a new tab or window.
 
